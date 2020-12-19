@@ -1,0 +1,2007 @@
+{
+  "name": "Bards Dispense Profanity",
+  "black": [
+    {
+      "text": "_ is the new _.",
+      "pick": 2,
+      "pack": 61
+    },
+    {
+      "text": "_ guaranteed, or your money back!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "[POINT TO ANY PLAYER.]\n\nMy friendship with this person is based entirely on _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR LEFT.]\n\nI have this person to thank for introducing me to _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR LEFT.]\n\nWhat is this person's guilty pleasure?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "[POINT TO THE PERSON TO YOUR RIGHT.]\n\nWhat does this person prefer in the bedroom?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "A bird in the hand is worth _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "A euphemism for the sex act that you would least like to discuss with your parents:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "A horse!\na horse!\n_ for a horse!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "A million dollars isn't cool.\nYou know what's cool? _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "A rabbi, _, and _ walk into a bar.",
+      "pick": 2,
+      "pack": 61
+    },
+    {
+      "text": "A vote for Donald Trump is a vote to Make America _ Again.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Absence makes the heart grow _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Actions speak louder than _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "After the final book was published, J.K. Rowling confirmed that Dumbledore was _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "After the show it's the afterparty, and after the party it's _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "All the world's a stage, and all the men and women merely _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "As everyone knows, after shooting Lincoln, John Wilkes Booth jumped onto the stage and yelled \"_,\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Ask not what your country can do for you; ask what you can do for _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Behind every successful man is _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "By the age of four, male children already display a preference for _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Cowards die many times before their deaths; the valiant never taste _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Creepiest ride ever: my Uber driver was _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "DRILL SERGEANT:\nWhat the hell are you doing, private?\n\nPRIVATE:\nSir, _, sir!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "For every $1 that men receive, women receive _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Give me liberty, or give me _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "God helps those who help _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Good night, good night! _ is such sweet sorrow.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "History is written by _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "How will I keep myself busy after I retire?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I believe it was Winston Churchill who said: \"Never in the field of human conflict was so much owed by so many to _.\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I could never marry someone who supports banning _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I don't consider myself religious, but I do believe in _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I got my dog from a shelter.\nShe was rescued from _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I have a dream that one day this nation wil rise up and live out the true meaning of _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I love the smell of _ in the morning",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I majored in business, but I minored in _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I think, therefore I am _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I'll get you, my pretty, and _ too!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I'm getting a degree in English. It's basically four years of _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I'm just a girl, standing in front of a boy, asking for _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I'm sorry, this table is reserved for _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I'm thinking about getting a lower-back tattoo of _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "I've got _ in low places.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "If a creepy guy won't leave me alone at a bar, I just start talking about _ until he leaves. Works every time.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "If music be the food of _, play on.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "In the land of the blind, the one-eyed man is _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "It's always darkest before _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "KEEP CALM AND CARRY _",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Key to a healthy marriage: _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Life is a tale told by an idiot, full of sound and fury, signifying _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "My high school diary has a BUNCH of entries about _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "My road rage really gets out of control when the other driver is _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "O say, does _ yet wave\n\no'er the land of the fre and the home of the brave?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Oh yeah? Well I graduated from the University of _!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "On the twelfth day of Christmas, my true love gave to me _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "One weird trick for beautiful, clear skin:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Our next speaker is a distinguished professor of _ at the University of Chicago.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Pediatricians now recommend that all children receive each morning.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Plot twist: they were _ the whole time!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "PRINCE HARRY CAUGHT IN _ SCANDAL",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Romeo, Romeo! Wherefore art thou _?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "SCARLETT:\nWhere shall I go? What shall I do?\n\nRHETT:\nFrankly, my dear, I don't give _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Scholars have discovered a previously unknown Sherlock Holmes story called \"The Adventure of _.\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Some are born great, some achieve greatness, and some have _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Some conspiracists belive that Shakespeare's plays were actually written by _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Thanks, everyone, for coming out tonight.\nThis next song is called \"_.\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "The course of _ never did run smooth.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "The eyes are windows to _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "The latest Westboro Baptist Church sign:\n\nGOD HATES _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "The pen is mightier than _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "The sign of true adult maturity:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "There's a theory that Shakespeare was actually _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "These days the kids are calling it \"_.\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "This year's trendiest card game:\n\n\"_ Against _.\"",
+      "pick": 2,
+      "pack": 61
+    },
+    {
+      "text": "Throw _ in the air like you just don't care!",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Title of a bestselling memoir later revealed to be fabricated:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Title of a film that's trying to win an Oscar:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "To be, or not to be: that is _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Twas the night before Christmas, and all through the house,\n\nnot a creature was stirring, not even _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Ugh, I just sat through this dude mansplaining _ to me for a half hour.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "We'll be holding you in an isolation chamber until we can rule out _ Syndrome.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Well, you know what they say: big hands, _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What defines my brand of feminism?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What if _ is just, like, in your mind, you know?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What is this world coming to? I'll tell you what it's coming to:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What new trend has parents of teenagers worried?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What topic is glaringly absent from the Sex Ed curriculum?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What will finally bring our civilization to an end?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What's in a name? _ by any other name would smell as sweet.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What's my ideal first date?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "What's the sexiest thing ever?",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "When life gives you lemons, make _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "When told that the people had no bread to eat, Marie Antoinette is said to have suggested: \"Let them eat _.\"",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "With my skills in _, and your knowledge in _, we could rule the world!",
+      "pick": 2,
+      "pack": 61
+    },
+    {
+      "text": "Yes, I have a question. Well, not so much a question as _.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "You:\nPlay Rediohead.\n\nSiri:\nSorry. I don't know what \"_\" means.",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "You're seeing a therapist for the first time. The therapist asks why you've come.\n\nYour answer:",
+      "pick": 1,
+      "pack": 61
+    },
+    {
+      "text": "Your call is very important to us. Please stay on the line and we'll be _.",
+      "pick": 1,
+      "pack": 61
+    }
+  ],
+  "white": [
+    {
+      "text": "a baboon's blood",
+      "pack": 61
+    },
+    {
+      "text": "a barber's chair that fits all buttocks",
+      "pack": 61
+    },
+    {
+      "text": "a barren sister",
+      "pack": 61
+    },
+    {
+      "text": "a boil,\na plague-sore,\nan embossed carbuncle",
+      "pack": 61
+    },
+    {
+      "text": "a bolt of nothing, shot at nothing",
+      "pack": 61
+    },
+    {
+      "text": "a butter-woman's mouth",
+      "pack": 61
+    },
+    {
+      "text": "a care-crazed mother of many children",
+      "pack": 61
+    },
+    {
+      "text": "a certain convocation of politic worms",
+      "pack": 61
+    },
+    {
+      "text": "a Christmas comedy",
+      "pack": 61
+    },
+    {
+      "text": "a cock that nobody can match",
+      "pack": 61
+    },
+    {
+      "text": "a codpiece to stick pins on",
+      "pack": 61
+    },
+    {
+      "text": "a combless cock",
+      "pack": 61
+    },
+    {
+      "text": "a couch for luxury and damned incest",
+      "pack": 61
+    },
+    {
+      "text": "a cow in June",
+      "pack": 61
+    },
+    {
+      "text": "a deploring dump",
+      "pack": 61
+    },
+    {
+      "text": "a dog as big as ten of yours",
+      "pack": 61
+    },
+    {
+      "text": "a double tongue; there's two tongues",
+      "pack": 61
+    },
+    {
+      "text": "a dumb innocent",
+      "pack": 61
+    },
+    {
+      "text": "a Dutchman today,\n\na Frenchman to-morrow",
+      "pack": 61
+    },
+    {
+      "text": "a Dutchman's beard",
+      "pack": 61
+    },
+    {
+      "text": "a fat tripe finely broiled",
+      "pack": 61
+    },
+    {
+      "text": "a father cruel, and a step-dame false",
+      "pack": 61
+    },
+    {
+      "text": "a foutre for the world",
+      "pack": 61
+    },
+    {
+      "text": "a gentleman and a gamester, sir",
+      "pack": 61
+    },
+    {
+      "text": "a German from the waist downward",
+      "pack": 61
+    },
+    {
+      "text": "a great eater of beef",
+      "pack": 61
+    },
+    {
+      "text": "a gross lout, a mindless slave, or else a hovering temporizer",
+      "pack": 61
+    },
+    {
+      "text": "a hand that kings have lipped",
+      "pack": 61
+    },
+    {
+      "text": "a hot friend",
+      "pack": 61
+    },
+    {
+      "text": "a hot-house, which, I think, is a very ill house too",
+      "pack": 61
+    },
+    {
+      "text": "a hundred bastards",
+      "pack": 61
+    },
+    {
+      "text": "a husband with a beard on his face",
+      "pack": 61
+    },
+    {
+      "text": "a jewel that too casually hath left mine arm",
+      "pack": 61
+    },
+    {
+      "text": "A Kate conformable as other household Kates",
+      "pack": 61
+    },
+    {
+      "text": "a kind of excellent dumb discourse",
+      "pack": 61
+    },
+    {
+      "text": "a kind of yesty collection",
+      "pack": 61
+    },
+    {
+      "text": "a king transformed to a gnat",
+      "pack": 61
+    },
+    {
+      "text": "a knack,\na toy,\na trick,\na baby's cap",
+      "pack": 61
+    },
+    {
+      "text": "a lewd day-bed",
+      "pack": 61
+    },
+    {
+      "text": "a liberal rewarder of his friends",
+      "pack": 61
+    },
+    {
+      "text": "a mess of Russians",
+      "pack": 61
+    },
+    {
+      "text": "a modern ecstasy",
+      "pack": 61
+    },
+    {
+      "text": "a most notorious pirate",
+      "pack": 61
+    },
+    {
+      "text": "a new hat",
+      "pack": 61
+    },
+    {
+      "text": "a pair of reechy kisses",
+      "pack": 61
+    },
+    {
+      "text": "a pair of stainless maidenhoods",
+      "pack": 61
+    },
+    {
+      "text": "a piece of beef and mustard",
+      "pack": 61
+    },
+    {
+      "text": "a plentiful lack of wit,\n\ntogether with most weak hams",
+      "pack": 61
+    },
+    {
+      "text": "a poor, bare, forked animal",
+      "pack": 61
+    },
+    {
+      "text": "a pretty piece of flesh",
+      "pack": 61
+    },
+    {
+      "text": "a puppy greyhound",
+      "pack": 61
+    },
+    {
+      "text": "a rare parrot-teacher",
+      "pack": 61
+    },
+    {
+      "text": "a rat without a tail",
+      "pack": 61
+    },
+    {
+      "text": "a robustious periwig-pated fellow",
+      "pack": 61
+    },
+    {
+      "text": "a shrewd thrust at your belly",
+      "pack": 61
+    },
+    {
+      "text": "a small grey-coated gnat",
+      "pack": 61
+    },
+    {
+      "text": "a strange invisible perfume",
+      "pack": 61
+    },
+    {
+      "text": "a supersublte Venetian",
+      "pack": 61
+    },
+    {
+      "text": "a tale told by an idiot",
+      "pack": 61
+    },
+    {
+      "text": "a taller man than I",
+      "pack": 61
+    },
+    {
+      "text": "a tender ass",
+      "pack": 61
+    },
+    {
+      "text": "a thousand noses",
+      "pack": 61
+    },
+    {
+      "text": "a tooth-picker from the furthest inch of Asia",
+      "pack": 61
+    },
+    {
+      "text": "a very good bowler",
+      "pack": 61
+    },
+    {
+      "text": "a very good whore",
+      "pack": 61
+    },
+    {
+      "text": "a very mean meaning",
+      "pack": 61
+    },
+    {
+      "text": "a virtuous and Christian-like conclusion",
+      "pack": 61
+    },
+    {
+      "text": "a wealthy Hebrew",
+      "pack": 61
+    },
+    {
+      "text": "a whole school of tongues in this belly of mine",
+      "pack": 61
+    },
+    {
+      "text": "a wonder, if you talk of a wonder",
+      "pack": 61
+    },
+    {
+      "text": "a wood woman",
+      "pack": 61
+    },
+    {
+      "text": "Adam,\nRalph,\nand Gregory",
+      "pack": 61
+    },
+    {
+      "text": "Alexander the Pig",
+      "pack": 61
+    },
+    {
+      "text": "all kinds of sores and shames on my bare hand",
+      "pack": 61
+    },
+    {
+      "text": "all the hot bloods",
+      "pack": 61
+    },
+    {
+      "text": "all the pleasures of the world",
+      "pack": 61
+    },
+    {
+      "text": "an asshead",
+      "pack": 61
+    },
+    {
+      "text": "an evil diet",
+      "pack": 61
+    },
+    {
+      "text": "an Hebrew, a Jew",
+      "pack": 61
+    },
+    {
+      "text": "an index obscure prologue to the history of lust and foul thoughts",
+      "pack": 61
+    },
+    {
+      "text": "an invisible baldrick",
+      "pack": 61
+    },
+    {
+      "text": "an old trot with ne'er a tooth in her head",
+      "pack": 61
+    },
+    {
+      "text": "an unstanched wench",
+      "pack": 61
+    },
+    {
+      "text": "anunauthorized kiss",
+      "pack": 61
+    },
+    {
+      "text": "asaucy stranger",
+      "pack": 61
+    },
+    {
+      "text": "bastard Normans,\n\nNorman bastards!",
+      "pack": 61
+    },
+    {
+      "text": "bellowing like bulls",
+      "pack": 61
+    },
+    {
+      "text": "blasting in the bud",
+      "pack": 61
+    },
+    {
+      "text": "blowing him down again",
+      "pack": 61
+    },
+    {
+      "text": "blubbering and weeping,\n\nweeping and blubbering",
+      "pack": 61
+    },
+    {
+      "text": "bold and saucy",
+      "pack": 61
+    },
+    {
+      "text": "both the Blunts",
+      "pack": 61
+    },
+    {
+      "text": "Bottom's Dream",
+      "pack": 61
+    },
+    {
+      "text": "boys with bugs",
+      "pack": 61
+    },
+    {
+      "text": "brawling in French",
+      "pack": 61
+    },
+    {
+      "text": "bully-monster",
+      "pack": 61
+    },
+    {
+      "text": "clamorous whining",
+      "pack": 61
+    },
+    {
+      "text": "converting Jews to Christians",
+      "pack": 61
+    },
+    {
+      "text": "cony-catching",
+      "pack": 61
+    },
+    {
+      "text": "Crab, my dog",
+      "pack": 61
+    },
+    {
+      "text": "cracking nuts",
+      "pack": 61
+    },
+    {
+      "text": "Cupid's butt-shaft",
+      "pack": 61
+    },
+    {
+      "text": "dismal thinkings",
+      "pack": 61
+    },
+    {
+      "text": "drinking,\nfencing,\nswearing,\nquarrelling",
+      "pack": 61
+    },
+    {
+      "text": "dumb jewels",
+      "pack": 61
+    },
+    {
+      "text": "eahc actor on his ass",
+      "pack": 61
+    },
+    {
+      "text": "eat a crocodile?",
+      "pack": 61
+    },
+    {
+      "text": "eight wild-boars roasted whole at breakfast",
+      "pack": 61
+    },
+    {
+      "text": "elephants with holes",
+      "pack": 61
+    },
+    {
+      "text": "engines of lust",
+      "pack": 61
+    },
+    {
+      "text": "every dream, each buzz",
+      "pack": 61
+    },
+    {
+      "text": "fat bull-beeves",
+      "pack": 61
+    },
+    {
+      "text": "fear and niceness -- the handmaids of all women",
+      "pack": 61
+    },
+    {
+      "text": "fighting o' days and foining o' nights",
+      "pack": 61
+    },
+    {
+      "text": "fingering, so; we'll try with tongue too",
+      "pack": 61
+    },
+    {
+      "text": "foul sluttish hairs",
+      "pack": 61
+    },
+    {
+      "text": "general assault",
+      "pack": 61
+    },
+    {
+      "text": "general woe",
+      "pack": 61
+    },
+    {
+      "text": "good bushes",
+      "pack": 61
+    },
+    {
+      "text": "good strawberies in your garden there",
+      "pack": 61
+    },
+    {
+      "text": "grease that's sweaten from the murderer's gibbet",
+      "pack": 61
+    },
+    {
+      "text": "greasy Joan",
+      "pack": 61
+    },
+    {
+      "text": "greater than great, great, great, great",
+      "pack": 61
+    },
+    {
+      "text": "groaning every hour",
+      "pack": 61
+    },
+    {
+      "text": "groping for trouts in a peculiar river",
+      "pack": 61
+    },
+    {
+      "text": "growing feathers",
+      "pack": 61
+    },
+    {
+      "text": "he that hath killed my king and whored my mother",
+      "pack": 61
+    },
+    {
+      "text": "head, and butt!",
+      "pack": 61
+    },
+    {
+      "text": "headstrong women",
+      "pack": 61
+    },
+    {
+      "text": "her C's,\nher U's,\nand her T's",
+      "pack": 61
+    },
+    {
+      "text": "her fine foot, straight leg, and quivering thigh\n\nand the demesnes that there adjacent lie",
+      "pack": 61
+    },
+    {
+      "text": "her lamb when it baes",
+      "pack": 61
+    },
+    {
+      "text": "her virgin-knot",
+      "pack": 61
+    },
+    {
+      "text": "here, sir!\nhere, sir!\nhere, sir!\nhere, sir!",
+      "pack": 61
+    },
+    {
+      "text": "hiding the grossness",
+      "pack": 61
+    },
+    {
+      "text": "his beaver",
+      "pack": 61
+    },
+    {
+      "text": "his dog-heartefd daughters",
+      "pack": 61
+    },
+    {
+      "text": "his goatish disposition",
+      "pack": 61
+    },
+    {
+      "text": "his huge legs",
+      "pack": 61
+    },
+    {
+      "text": "his Jewish heart",
+      "pack": 61
+    },
+    {
+      "text": "his love-shaft",
+      "pack": 61
+    },
+    {
+      "text": "his own petard",
+      "pack": 61
+    },
+    {
+      "text": "honeying and making love over the nasty sty",
+      "pack": 61
+    },
+    {
+      "text": "horsing foot on foot",
+      "pack": 61
+    },
+    {
+      "text": "hot love on the wing",
+      "pack": 61
+    },
+    {
+      "text": "how virgins might blow up men",
+      "pack": 61
+    },
+    {
+      "text": "ill-shaped fishes",
+      "pack": 61
+    },
+    {
+      "text": "Jew hands",
+      "pack": 61
+    },
+    {
+      "text": "kicky-wicky",
+      "pack": 61
+    },
+    {
+      "text": "kissing with inside lip",
+      "pack": 61
+    },
+    {
+      "text": "knocking out his brains",
+      "pack": 61
+    },
+    {
+      "text": "laming the shrine of Venus",
+      "pack": 61
+    },
+    {
+      "text": "little tidy Bartholomew boar-pig",
+      "pack": 61
+    },
+    {
+      "text": "living dully sluggardized at home",
+      "pack": 61
+    },
+    {
+      "text": "longing, as I said, for prunes",
+      "pack": 61
+    },
+    {
+      "text": "love's quick pants",
+      "pack": 61
+    },
+    {
+      "text": "lovers' brains",
+      "pack": 61
+    },
+    {
+      "text": "Madam, this glove",
+      "pack": 61
+    },
+    {
+      "text": "Madam,' and nothing else",
+      "pack": 61
+    },
+    {
+      "text": "making him egregiously as ass",
+      "pack": 61
+    },
+    {
+      "text": "making the beast with two backs",
+      "pack": 61
+    },
+    {
+      "text": "marrying a punk",
+      "pack": 61
+    },
+    {
+      "text": "Master Fang",
+      "pack": 61
+    },
+    {
+      "text": "meditating on virginity",
+      "pack": 61
+    },
+    {
+      "text": "meeting noses",
+      "pack": 61
+    },
+    {
+      "text": "men whose heads do grow beneath their shoulders",
+      "pack": 61
+    },
+    {
+      "text": "men-children",
+      "pack": 61
+    },
+    {
+      "text": "mine eye-strings",
+      "pack": 61
+    },
+    {
+      "text": "Monsieur Love",
+      "pack": 61
+    },
+    {
+      "text": "more than one husband",
+      "pack": 61
+    },
+    {
+      "text": "much throwing about of brains",
+      "pack": 61
+    },
+    {
+      "text": "my accursed womb, the bed of death!",
+      "pack": 61
+    },
+    {
+      "text": "my bastardizing",
+      "pack": 61
+    },
+    {
+      "text": "my familiar sin with maids",
+      "pack": 61
+    },
+    {
+      "text": "my father with his bleeding rings",
+      "pack": 61
+    },
+    {
+      "text": "my house,\nmy household\nstuff, my field,\nmy barn,\nmy horse,\nmy ox,\nmy ass,\nmy any thing",
+      "pack": 61
+    },
+    {
+      "text": "my Jewish gaberdine",
+      "pack": 61
+    },
+    {
+      "text": "my knife in your mouldy chaps",
+      "pack": 61
+    },
+    {
+      "text": "my little body",
+      "pack": 61
+    },
+    {
+      "text": "my mellow hangings, nay, my leaves",
+      "pack": 61
+    },
+    {
+      "text": "my mother weeping, my father wailing, my sister crying, our maid howling, our cat wringing her hands",
+      "pack": 61
+    },
+    {
+      "text": "my pump well flowered",
+      "pack": 61
+    },
+    {
+      "text": "my uncle Clarence",
+      "pack": 61
+    },
+    {
+      "text": "My uncle-father and aunt-mother",
+      "pack": 61
+    },
+    {
+      "text": "my wedding sheets",
+      "pack": 61
+    },
+    {
+      "text": "my well-known body",
+      "pack": 61
+    },
+    {
+      "text": "my wife's liver",
+      "pack": 61
+    },
+    {
+      "text": "Nathaniel,\nJoseph,\nNicholas,\nPhilip,\nWalter,\nSugarsop\nand the rest",
+      "pack": 61
+    },
+    {
+      "text": "nine years a-killing",
+      "pack": 61
+    },
+    {
+      "text": "no bottom, none",
+      "pack": 61
+    },
+    {
+      "text": "no cock of mine",
+      "pack": 61
+    },
+    {
+      "text": "no more brain than a stone",
+      "pack": 61
+    },
+    {
+      "text": "no wars without doors",
+      "pack": 61
+    },
+    {
+      "text": "nose-painting, sleep, and urine",
+      "pack": 61
+    },
+    {
+      "text": "nothing but high shoes",
+      "pack": 61
+    },
+    {
+      "text": "nothing but males",
+      "pack": 61
+    },
+    {
+      "text": "nothing but the word 'noddy'",
+      "pack": 61
+    },
+    {
+      "text": "on her left breast, a mole",
+      "pack": 61
+    },
+    {
+      "text": "one grape",
+      "pack": 61
+    },
+    {
+      "text": "our carnal stings",
+      "pack": 61
+    },
+    {
+      "text": "our external parts",
+      "pack": 61
+    },
+    {
+      "text": "our o'erhasty marriage",
+      "pack": 61
+    },
+    {
+      "text": "our raging motions",
+      "pack": 61
+    },
+    {
+      "text": "our synagogue",
+      "pack": 61
+    },
+    {
+      "text": "our thighs packed with wax",
+      "pack": 61
+    },
+    {
+      "text": "paddling in your neck with his damned fingers",
+      "pack": 61
+    },
+    {
+      "text": "parsley to stuff a rabbit",
+      "pack": 61
+    },
+    {
+      "text": "penetrable stuff",
+      "pack": 61
+    },
+    {
+      "text": "pent-up guilts",
+      "pack": 61
+    },
+    {
+      "text": "pretty dimpled boys",
+      "pack": 61
+    },
+    {
+      "text": "private time",
+      "pack": 61
+    },
+    {
+      "text": "quaffing and drinking",
+      "pack": 61
+    },
+    {
+      "text": "rank and not-to-be-endured riots",
+      "pack": 61
+    },
+    {
+      "text": "ratsbane in my mouth",
+      "pack": 61
+    },
+    {
+      "text": "reputation,\nreputation,\nreputation",
+      "pack": 61
+    },
+    {
+      "text": "ridiculous smiling",
+      "pack": 61
+    },
+    {
+      "text": "rings and things",
+      "pack": 61
+    },
+    {
+      "text": "rustling in unpaid-for silk",
+      "pack": 61
+    },
+    {
+      "text": "saving your manhoods",
+      "pack": 61
+    },
+    {
+      "text": "scaring the ladies like a crow-keeper",
+      "pack": 61
+    },
+    {
+      "text": "seventy senators that died",
+      "pack": 61
+    },
+    {
+      "text": "sighs and groans and shrieks",
+      "pack": 61
+    },
+    {
+      "text": "Sir Smile",
+      "pack": 61
+    },
+    {
+      "text": "sisters!\nsisters!\nshame of ladies!\nsisters!",
+      "pack": 61
+    },
+    {
+      "text": "sitting in my Dolphin-chamber",
+      "pack": 61
+    },
+    {
+      "text": "sitting on a close-stool",
+      "pack": 61
+    },
+    {
+      "text": "so troublesome a bedfellow",
+      "pack": 61
+    },
+    {
+      "text": "some Dick",
+      "pack": 61
+    },
+    {
+      "text": "some enforced chastity",
+      "pack": 61
+    },
+    {
+      "text": "some forlorn and naked hermitage",
+      "pack": 61
+    },
+    {
+      "text": "some minx's token",
+      "pack": 61
+    },
+    {
+      "text": "some more mightier member",
+      "pack": 61
+    },
+    {
+      "text": "some natural notes about her body",
+      "pack": 61
+    },
+    {
+      "text": "some never-heard-of torture",
+      "pack": 61
+    },
+    {
+      "text": "some sack, Francis",
+      "pack": 61
+    },
+    {
+      "text": "some strange eruption",
+      "pack": 61
+    },
+    {
+      "text": "some strange pastime",
+      "pack": 61
+    },
+    {
+      "text": "some tardy cripple",
+      "pack": 61
+    },
+    {
+      "text": "some vicious mole",
+      "pack": 61
+    },
+    {
+      "text": "some wine, ho!",
+      "pack": 61
+    },
+    {
+      "text": "such bugs and goblins in my life",
+      "pack": 61
+    },
+    {
+      "text": "super-dainty Kate",
+      "pack": 61
+    },
+    {
+      "text": "talking with deceiving father of a deceitful son",
+      "pack": 61
+    },
+    {
+      "text": "ten thousand dollars",
+      "pack": 61
+    },
+    {
+      "text": "ten thousand men that fishes gnawed upon",
+      "pack": 61
+    },
+    {
+      "text": "tennis balls, my liege",
+      "pack": 61
+    },
+    {
+      "text": "that drug-damned Italy",
+      "pack": 61
+    },
+    {
+      "text": "that eyeless head of thine",
+      "pack": 61
+    },
+    {
+      "text": "that goose look",
+      "pack": 61
+    },
+    {
+      "text": "that great baby you see there",
+      "pack": 61
+    },
+    {
+      "text": "that Greekish whoremasterly villian with the sleeve",
+      "pack": 61
+    },
+    {
+      "text": "that oozy bed where my son lies",
+      "pack": 61
+    },
+    {
+      "text": "that poisonous bunchbacked toad",
+      "pack": 61
+    },
+    {
+      "text": "that same young Trojan ass that loves the whore there",
+      "pack": 61
+    },
+    {
+      "text": "the best-regarded virgins",
+      "pack": 61
+    },
+    {
+      "text": "the buttery-bar",
+      "pack": 61
+    },
+    {
+      "text": "the cement of our love",
+      "pack": 61
+    },
+    {
+      "text": "the change of man and boy",
+      "pack": 61
+    },
+    {
+      "text": "the circumcised dog",
+      "pack": 61
+    },
+    {
+      "text": "the cost of the erection",
+      "pack": 61
+    },
+    {
+      "text": "the cutting of my garments",
+      "pack": 61
+    },
+    {
+      "text": "the door of a brothel-house",
+      "pack": 61
+    },
+    {
+      "text": "the dribbling dart of love",
+      "pack": 61
+    },
+    {
+      "text": "the entertainment of death",
+      "pack": 61
+    },
+    {
+      "text": "the fellow with the great belly",
+      "pack": 61
+    },
+    {
+      "text": "the first cock",
+      "pack": 61
+    },
+    {
+      "text": "the flower that's like thy face",
+      "pack": 61
+    },
+    {
+      "text": "the foot of a flea",
+      "pack": 61
+    },
+    {
+      "text": "the four,\nor the three,\nor the two",
+      "pack": 61
+    },
+    {
+      "text": "the French lord, Monsieur Le Bon",
+      "pack": 61
+    },
+    {
+      "text": "the frozen bosom of the north",
+      "pack": 61
+    },
+    {
+      "text": "the green-eyed monster",
+      "pack": 61
+    },
+    {
+      "text": "the guts of a beggar",
+      "pack": 61
+    },
+    {
+      "text": "the heads of the maids",
+      "pack": 61
+    },
+    {
+      "text": "the heat of a luxurious bed",
+      "pack": 61
+    },
+    {
+      "text": "the holes where eyes should be",
+      "pack": 61
+    },
+    {
+      "text": "the hot duke",
+      "pack": 61
+    },
+    {
+      "text": "the imminent death of twenty thousand men",
+      "pack": 61
+    },
+    {
+      "text": "the inaudible and noiseless foot of Time",
+      "pack": 61
+    },
+    {
+      "text": "the incestuous pleasure of his bed",
+      "pack": 61
+    },
+    {
+      "text": "the infections that the sun sucks up",
+      "pack": 61
+    },
+    {
+      "text": "the innocent mansion of my love",
+      "pack": 61
+    },
+    {
+      "text": "the jerks of invention",
+      "pack": 61
+    },
+    {
+      "text": "the jewels of our father",
+      "pack": 61
+    },
+    {
+      "text": "the lascivious pleasing of a lute",
+      "pack": 61
+    },
+    {
+      "text": "the little hangman",
+      "pack": 61
+    },
+    {
+      "text": "the loose encounters of lascivious men",
+      "pack": 61
+    },
+    {
+      "text": "the maiden's organ,\nshrill and sound",
+      "pack": 61
+    },
+    {
+      "text": "the meaning, pretty ingenious?",
+      "pack": 61
+    },
+    {
+      "text": "the mere effusion of thy proper loins",
+      "pack": 61
+    },
+    {
+      "text": "the moist star",
+      "pack": 61
+    },
+    {
+      "text": "the most profound sciatica",
+      "pack": 61
+    },
+    {
+      "text": "the natural gates and alleys of the body",
+      "pack": 61
+    },
+    {
+      "text": "the negro's belly",
+      "pack": 61
+    },
+    {
+      "text": "the niggardly rascally sheep-biter",
+      "pack": 61
+    },
+    {
+      "text": "the nimble marmoset",
+      "pack": 61
+    },
+    {
+      "text": "the oily darling",
+      "pack": 61
+    },
+    {
+      "text": "the ousel cock so black of hue",
+      "pack": 61
+    },
+    {
+      "text": "the overscutched huswives",
+      "pack": 61
+    },
+    {
+      "text": "the owner of a foul disease",
+      "pack": 61
+    },
+    {
+      "text": "the pillow, there the bolster, this way the coverlet, another way the sheets",
+      "pack": 61
+    },
+    {
+      "text": "the pin-buttock,\n\nthe quatch-buttock,\n\nthe brawn buttock,\n\nor any buttock",
+      "pack": 61
+    },
+    {
+      "text": "the posterior of the day",
+      "pack": 61
+    },
+    {
+      "text": "the pregnant hinges of the knee",
+      "pack": 61
+    },
+    {
+      "text": "the prettier fellow of the two",
+      "pack": 61
+    },
+    {
+      "text": "the rack of this tough world",
+      "pack": 61
+    },
+    {
+      "text": "the sick tune",
+      "pack": 61
+    },
+    {
+      "text": "the silliest stuff that ever I heard",
+      "pack": 61
+    },
+    {
+      "text": "the son and heir of a mongrel bitch",
+      "pack": 61
+    },
+    {
+      "text": "the sooty bosom",
+      "pack": 61
+    },
+    {
+      "text": "the spongy south",
+      "pack": 61
+    },
+    {
+      "text": "the stinking elder",
+      "pack": 61
+    },
+    {
+      "text": "the strong and swelling evil of my conception",
+      "pack": 61
+    },
+    {
+      "text": "the studious universities",
+      "pack": 61
+    },
+    {
+      "text": "the sweetest morsel of the night",
+      "pack": 61
+    },
+    {
+      "text": "the thick rotundity o' the world!",
+      "pack": 61
+    },
+    {
+      "text": "the three weird sisters",
+      "pack": 61
+    },
+    {
+      "text": "the waggling of your head",
+      "pack": 61
+    },
+    {
+      "text": "the wall of a jakes",
+      "pack": 61
+    },
+    {
+      "text": "the wall's hole, not your lips at all",
+      "pack": 61
+    },
+    {
+      "text": "the wet sea-boy",
+      "pack": 61
+    },
+    {
+      "text": "the word 'three'",
+      "pack": 61
+    },
+    {
+      "text": "the wronger of her and you",
+      "pack": 61
+    },
+    {
+      "text": "their beetle",
+      "pack": 61
+    },
+    {
+      "text": "their numbed and mortified bare arms",
+      "pack": 61
+    },
+    {
+      "text": "their slimy jaws",
+      "pack": 61
+    },
+    {
+      "text": "their wormy beds",
+      "pack": 61
+    },
+    {
+      "text": "these fatal holes",
+      "pack": 61
+    },
+    {
+      "text": "these profound heaves",
+      "pack": 61
+    },
+    {
+      "text": "this bird you aimed at",
+      "pack": 61
+    },
+    {
+      "text": "this crack of your love",
+      "pack": 61
+    },
+    {
+      "text": "this flock of drunkards",
+      "pack": 61
+    },
+    {
+      "text": "This is the worst.",
+      "pack": 61
+    },
+    {
+      "text": "This is too long.",
+      "pack": 61
+    },
+    {
+      "text": "this ridiculous boldness",
+      "pack": 61
+    },
+    {
+      "text": "this sweet lass of France",
+      "pack": 61
+    },
+    {
+      "text": "this weak and writhled shrimp",
+      "pack": 61
+    },
+    {
+      "text": "this young quat",
+      "pack": 61
+    },
+    {
+      "text": "those pampered animals that rage in savage sensuality",
+      "pack": 61
+    },
+    {
+      "text": "thy father's moral parts",
+      "pack": 61
+    },
+    {
+      "text": "thy foot-licker",
+      "pack": 61
+    },
+    {
+      "text": "toes unplagued with corns",
+      "pack": 61
+    },
+    {
+      "text": "topping your white ewe",
+      "pack": 61
+    },
+    {
+      "text": "toys of desperation",
+      "pack": 61
+    },
+    {
+      "text": "turbulent and dangerous lunacy",
+      "pack": 61
+    },
+    {
+      "text": "twenty, watchful, weary, tedious, nights",
+      "pack": 61
+    },
+    {
+      "text": "two blushing pilgrims",
+      "pack": 61
+    },
+    {
+      "text": "two thieves kissing",
+      "pack": 61
+    },
+    {
+      "text": "unknown loins",
+      "pack": 61
+    },
+    {
+      "text": "vile jelly",
+      "pack": 61
+    },
+    {
+      "text": "virginity being blown down",
+      "pack": 61
+    },
+    {
+      "text": "wars with the women",
+      "pack": 61
+    },
+    {
+      "text": "waxen thighs",
+      "pack": 61
+    },
+    {
+      "text": "Welcome, ass.",
+      "pack": 61
+    },
+    {
+      "text": "what have we here?\n\na man or a fish?",
+      "pack": 61
+    },
+    {
+      "text": "what o' clock I say it is",
+      "pack": 61
+    },
+    {
+      "text": "what these dastard Frenchman dare",
+      "pack": 61
+    },
+    {
+      "text": "what woman is, yea",
+      "pack": 61
+    },
+    {
+      "text": "What, Jessica!",
+      "pack": 61
+    },
+    {
+      "text": "what's this?\nmutton?",
+      "pack": 61
+    },
+    {
+      "text": "when I wash my brain",
+      "pack": 61
+    },
+    {
+      "text": "where air comes out",
+      "pack": 61
+    },
+    {
+      "text": "where the bee sucks",
+      "pack": 61
+    },
+    {
+      "text": "whoremaster man",
+      "pack": 61
+    },
+    {
+      "text": "woman in a seeming man",
+      "pack": 61
+    },
+    {
+      "text": "yellow chapless skulls",
+      "pack": 61
+    },
+    {
+      "text": "you, that did void your rheum upon my beard",
+      "pack": 61
+    },
+    {
+      "text": "your beauty, ladies",
+      "pack": 61
+    },
+    {
+      "text": "your bum",
+      "pack": 61
+    },
+    {
+      "text": "your hands again upon my sword",
+      "pack": 61
+    },
+    {
+      "text": "your love's hot fire",
+      "pack": 61
+    },
+    {
+      "text": "your purpled hands",
+      "pack": 61
+    },
+    {
+      "text": "your tongue's sweet melody",
+      "pack": 61
+    },
+    {
+      "text": "your wives, your daughters, your matrons and your maids",
+      "pack": 61
+    },
+    {
+      "text": "youth blasted with ecstasy",
+      "pack": 61
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Reject Pack",
+  "black": [
+    {
+      "text": "From WBEZ Chicago, it's This American Life. Today on our program, _. Stay with us.",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "My name is Inigo Montoya. You killed my father. Prepare for _.",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "Sir, we found you passed out naked on the side of the road. What's the last thing you remember?",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "The elders of the Ibo tribe of Nigeria recommend _ as a cure for impotence.",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES _!'",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "What are two cards in your hand that you want to get rid of?",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "What do you see? [An image of a Rorschach inkblot]",
+      "pick": 1,
+      "pack": 183
+    },
+    {
+      "text": "You can't wait forever. It's time to talk to your doctor about _.",
+      "pick": 1,
+      "pack": 183
+    }
+  ],
+  "white": [
+    {
+      "text": "A giant squid in a wedding gown.",
+      "pack": 183
+    },
+    {
+      "text": "A heart that is two sizes too small and that therefore cannot pump an adequate amount of blood.",
+      "pack": 183
+    },
+    {
+      "text": "A sexy naked interactive theater thing.",
+      "pack": 183
+    },
+    {
+      "text": "Asshole pomegranates that are hard to eat.",
+      "pack": 183
+    },
+    {
+      "text": "Becoming so rich that you shed your body and turn to vapor.",
+      "pack": 183
+    },
+    {
+      "text": "Carribbean Jesus.",
+      "pack": 183
+    },
+    {
+      "text": "Cornhole 101: just drop it in the hole.",
+      "pack": 183
+    },
+    {
+      "text": "Crayon-colored vomit",
+      "pack": 183
+    },
+    {
+      "text": "Dividing by zero.",
+      "pack": 183
+    },
+    {
+      "text": "Ejaculating a pound of tinsel.",
+      "pack": 183
+    },
+    {
+      "text": "Faking a Mental Disorder",
+      "pack": 183
+    },
+    {
+      "text": "Ladles.",
+      "pack": 183
+    },
+    {
+      "text": "My dickhead roomate.",
+      "pack": 183
+    },
+    {
+      "text": "Playing an ocarina to summon Ultra-Congress from the sea.",
+      "pack": 183
+    },
+    {
+      "text": "Super yoga.",
+      "pack": 183
+    },
+    {
+      "text": "The John D. and Catherine T. MacArthur Foundation.",
+      "pack": 183
+    }
+  ]
+}

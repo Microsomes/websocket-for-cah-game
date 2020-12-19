@@ -1,0 +1,70 @@
+{
+  "name": "Vote For Hillary Pack",
+  "black": [
+    {
+      "text": "As repartations for slavery, all African Americans will receive _.",
+      "pick": 1,
+      "pack": 155
+    },
+    {
+      "text": "Senator, I trust you enjoyed _ last night.  Now, can I count on your vote?",
+      "pick": 1,
+      "pack": 155
+    },
+    {
+      "text": "When you go to the polls on Tuesday, remember:  a vote for me is a vote for _.",
+      "pick": 1,
+      "pack": 155
+    }
+  ],
+  "white": [
+    {
+      "text": "A beautiful, ever-expanding circle of inclusivity that will never include Republicans.",
+      "pack": 155
+    },
+    {
+      "text": "Black lives mattering.",
+      "pack": 155
+    },
+    {
+      "text": "Donald Trump holding his nose while he eats pussy.",
+      "pack": 155
+    },
+    {
+      "text": "Eating the president's pussy.",
+      "pack": 155
+    },
+    {
+      "text": "Increasing economic and political polarization.",
+      "pack": 155
+    },
+    {
+      "text": "Keeping the government out of my vagina.",
+      "pack": 155
+    },
+    {
+      "text": "Kicking the middle class in the balls with a regressive tax code.",
+      "pack": 155
+    },
+    {
+      "text": "Letting Bernie Sanders rest his world-weary head on your lap.",
+      "pack": 155
+    },
+    {
+      "text": "Slapping Ted Cruz over and over.",
+      "pack": 155
+    },
+    {
+      "text": "The Bernie Sanders revolution.",
+      "pack": 155
+    },
+    {
+      "text": "The fact that Hillary Clinton is a woman.",
+      "pack": 155
+    },
+    {
+      "text": "The systematic disenfranchisement of black voters.",
+      "pack": 155
+    }
+  ]
+}

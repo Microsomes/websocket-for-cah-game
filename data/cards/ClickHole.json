@@ -1,0 +1,72 @@
+{
+  "name": "ClickHole Greeting Cards Pack (Target Exclusive)",
+  "black": [
+    {
+      "text": "Hallmark has invented a new holiday. It's called \"_ Day.\"",
+      "pick": 1,
+      "pack": 184
+    },
+    {
+      "text": "Happy Birthday! I love you. Here's _.",
+      "pick": 1,
+      "pack": 184
+    },
+    {
+      "text": "Honey, it's gonna take more than a shitty greeting card to make up for ten years of _.",
+      "pick": 1,
+      "pack": 184
+    },
+    {
+      "text": "I cannot stop smiling about _.",
+      "pick": 1,
+      "pack": 184
+    },
+    {
+      "text": "Roses are red. Violets are blue. I am _ and so are you.",
+      "pick": 1,
+      "pack": 184
+    }
+  ],
+  "white": [
+    {
+      "text": "A one-star Uber driver named \"Wife of Tarantula.\"",
+      "pack": 184
+    },
+    {
+      "text": "An explosion of glitter.",
+      "pack": 184
+    },
+    {
+      "text": "Eating my children.",
+      "pack": 184
+    },
+    {
+      "text": "Emerging from my mother's vagina.",
+      "pack": 184
+    },
+    {
+      "text": "Give me kiss.",
+      "pack": 184
+    },
+    {
+      "text": "Looking like shit.",
+      "pack": 184
+    },
+    {
+      "text": "Luring my husband to the bedroom with a trail of ferret teeth and appearing on the bed in a ferret costume.",
+      "pack": 184
+    },
+    {
+      "text": "Mom's special birthday rimjob.",
+      "pack": 184
+    },
+    {
+      "text": "My five dead husbands.",
+      "pack": 184
+    },
+    {
+      "text": "Turning 70 and still being fuckable.",
+      "pack": 184
+    }
+  ]
+}

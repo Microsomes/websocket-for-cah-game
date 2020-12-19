@@ -1,0 +1,469 @@
+{
+  "name": "Clams Attempt Harmonica, Volume 1",
+  "black": [
+    {
+      "text": "_ 2: Electric Boogaloo",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "_ IS NOT A WEDDING THEME, CHAD!",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "_?  I thought you meant _!  That explains why everyone is staring.",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "_?  I'd rather have _.",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "_? Looks like them Duke Boys are at it again.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "_? Title of your sex tape.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "A new study shows that period cramps are actually caused by _ and _.",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "DC is really scraping the bottom of the barrel with the new Batman movie. They're calling it Batman: _.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "He kept yelling \"_\"!  I didn't know it was his safe word!",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Hello IT, have you tried _?",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Hello.  My name is Elder Price, and I would like to share with you the most amazing _.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Honey, I have good news, and bad news.  The good news is that I'm _.  The bad news is that I'm _.",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "I consider myself pretty adventurous in the bedroom, but when my partner suggested _, I had to draw the line.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "I still remember the last thing my best friend said to me before he died. He held my hand, looked me in the eye, and whispered _.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "If you sign up for our Platinum Membership, you'll get _, absolutely free!",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Imagine our shock when we walked in on our son live streaming _ to the world.  He is SO grounded.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "In the newest film from Taika Waititi, _ finds _ in the woods and long story short, results in _.",
+      "pick": 3,
+      "pack": 3
+    },
+    {
+      "text": "Jenny McCarthy has moved on from vaccines and is now spreading misinformation that _ causes autism.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Mommy?  What does _ mean?",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "My credit card got canceled for suspicious activity when _, _, and _ showed up in my purchase history.",
+      "pick": 3,
+      "pack": 3
+    },
+    {
+      "text": "Our church?  We go to St. James of _.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "They're all talking about _, but we're ACTUALLY doing it.",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "What are 3 things you didn't learn in school?",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "What are the 3 secrets for a long and happy marriage?",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "What killed the mood?",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "What would win in a fight, _ or _?",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "Yeah, I seen him, Sheriff.  He was _ with a big ol _ strapped to his back.",
+      "pick": 2,
+      "pack": 3
+    },
+    {
+      "text": "You're never fully clean unless you're _!",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "Your mom's name is Brenda because _ was already taken!",
+      "pick": 1,
+      "pack": 3
+    },
+    {
+      "text": "YouTube is now demonetizing any videos containing _.",
+      "pick": 1,
+      "pack": 3
+    }
+  ],
+  "white": [
+    {
+      "text": "#MeToo",
+      "pack": 3
+    },
+    {
+      "text": "A 12 inch dick, a dozen roses, and a pick-up truck",
+      "pack": 3
+    },
+    {
+      "text": "A 40 year old scotch and a 10 year old girl",
+      "pack": 3
+    },
+    {
+      "text": "A bitch-slap for that bitch, Susan",
+      "pack": 3
+    },
+    {
+      "text": "A case of the collywobbles",
+      "pack": 3
+    },
+    {
+      "text": "A group of worthless minorities",
+      "pack": 3
+    },
+    {
+      "text": "A handful of Bill Cosby's quaaludes",
+      "pack": 3
+    },
+    {
+      "text": "A live-action remake of Shrek 2",
+      "pack": 3
+    },
+    {
+      "text": "A magician's assistant",
+      "pack": 3
+    },
+    {
+      "text": "A parody porn of Steel Magnolias",
+      "pack": 3
+    },
+    {
+      "text": "A perfect pulled pork poutine",
+      "pack": 3
+    },
+    {
+      "text": "A pretty standard giraffe",
+      "pack": 3
+    },
+    {
+      "text": "A prostate massage from Kathy Bates",
+      "pack": 3
+    },
+    {
+      "text": "A sharp surprise",
+      "pack": 3
+    },
+    {
+      "text": "A spontaneous 'Careless Whisper' saxophone solo",
+      "pack": 3
+    },
+    {
+      "text": "A tiny monkey wearing a fez",
+      "pack": 3
+    },
+    {
+      "text": "A touch of the 'tism",
+      "pack": 3
+    },
+    {
+      "text": "A wire coat hanger",
+      "pack": 3
+    },
+    {
+      "text": "Alone time with Kevin Spacey",
+      "pack": 3
+    },
+    {
+      "text": "An all female version of Saving Private Ryan tentatively titled Saving Sergeant Rhianna",
+      "pack": 3
+    },
+    {
+      "text": "An extremely impressive wet fart",
+      "pack": 3
+    },
+    {
+      "text": "An unvaccinated child",
+      "pack": 3
+    },
+    {
+      "text": "Baking soda",
+      "pack": 3
+    },
+    {
+      "text": "Beating the shit out of the next customer who says \"Doesn't scan? Must be free!\"",
+      "pack": 3
+    },
+    {
+      "text": "BIBLEMAN!",
+      "pack": 3
+    },
+    {
+      "text": "Black Jesus",
+      "pack": 3
+    },
+    {
+      "text": "Blowing a cop to get out of a speeding ticket",
+      "pack": 3
+    },
+    {
+      "text": "Buying an inbred Pug from a breeder just to watch it slowly suffocate to death over the next decade.",
+      "pack": 3
+    },
+    {
+      "text": "Chuck Norris' blatant homophobia",
+      "pack": 3
+    },
+    {
+      "text": "Clams Attempt Harmonica",
+      "pack": 3
+    },
+    {
+      "text": "Creed Bratton",
+      "pack": 3
+    },
+    {
+      "text": "Currently pregnant with Eddie Murphy's 58th child",
+      "pack": 3
+    },
+    {
+      "text": "Des Moines",
+      "pack": 3
+    },
+    {
+      "text": "Don Cherry",
+      "pack": 3
+    },
+    {
+      "text": "Dope as fuck!",
+      "pack": 3
+    },
+    {
+      "text": "Early onset retardation",
+      "pack": 3
+    },
+    {
+      "text": "Eeyore's inevitable suicide",
+      "pack": 3
+    },
+    {
+      "text": "Egg",
+      "pack": 3
+    },
+    {
+      "text": "Gary Busey",
+      "pack": 3
+    },
+    {
+      "text": "Generic Racism",
+      "pack": 3
+    },
+    {
+      "text": "Giving your bud a brojob to cheer him up after his goldfish died",
+      "pack": 3
+    },
+    {
+      "text": "Gluten",
+      "pack": 3
+    },
+    {
+      "text": "Grool",
+      "pack": 3
+    },
+    {
+      "text": "Handing out ecstasy in the NICU",
+      "pack": 3
+    },
+    {
+      "text": "Homeschooling your kids so the Algebra Devil can't get them",
+      "pack": 3
+    },
+    {
+      "text": "Lint",
+      "pack": 3
+    },
+    {
+      "text": "Lube",
+      "pack": 3
+    },
+    {
+      "text": "Malarkey",
+      "pack": 3
+    },
+    {
+      "text": "Mediocre pizza",
+      "pack": 3
+    },
+    {
+      "text": "Moby's dick",
+      "pack": 3
+    },
+    {
+      "text": "Monkey Bars. Not the things on a playground, but a bunch of Chimps sitting around drinking Jack and Cokes, playing pool, and listening to George Thorogood",
+      "pack": 3
+    },
+    {
+      "text": "Mr. Sunshine on my god damn shoulders, John Denver",
+      "pack": 3
+    },
+    {
+      "text": "My asshole after a night with Sean Evans",
+      "pack": 3
+    },
+    {
+      "text": "Naked pictures of Bea Arthur and a football helmet filled with cottage cheese",
+      "pack": 3
+    },
+    {
+      "text": "One bottle of good wine and 3 bottles of blended garbage",
+      "pack": 3
+    },
+    {
+      "text": "One rude motherfucker",
+      "pack": 3
+    },
+    {
+      "text": "Randy. FUCKING. Newman",
+      "pack": 3
+    },
+    {
+      "text": "Rapist Brock Turner",
+      "pack": 3
+    },
+    {
+      "text": "Recognizing your cousin on PornHub",
+      "pack": 3
+    },
+    {
+      "text": "Ripping off one company, who already ripped off another company, who stole the idea from another company.",
+      "pack": 3
+    },
+    {
+      "text": "Running over your wife in the driveway",
+      "pack": 3
+    },
+    {
+      "text": "Spending $12,000 a year on dildos",
+      "pack": 3
+    },
+    {
+      "text": "Spoons",
+      "pack": 3
+    },
+    {
+      "text": "Sticking a finger up your ass and realizing what you've been missing all your life",
+      "pack": 3
+    },
+    {
+      "text": "Sticking your dick in the gorilla exhibit",
+      "pack": 3
+    },
+    {
+      "text": "Tequila shits",
+      "pack": 3
+    },
+    {
+      "text": "The guy at the table who doesn't get any of the jokes",
+      "pack": 3
+    },
+    {
+      "text": "The Legend of Curly's Gold",
+      "pack": 3
+    },
+    {
+      "text": "The Scottish",
+      "pack": 3
+    },
+    {
+      "text": "The smell of Bronycon",
+      "pack": 3
+    },
+    {
+      "text": "Trusting a fart when you have the flu",
+      "pack": 3
+    },
+    {
+      "text": "Turkey calls",
+      "pack": 3
+    },
+    {
+      "text": "Using the bible for rolling papers",
+      "pack": 3
+    },
+    {
+      "text": "Werewolves, not Swearwolves",
+      "pack": 3
+    },
+    {
+      "text": "Willingly becoming an orphan",
+      "pack": 3
+    },
+    {
+      "text": "Winning a gift certificate for the local brothel by cashing in 18 years worth of tickets at the arcade.",
+      "pack": 3
+    },
+    {
+      "text": "Your average BMW driver",
+      "pack": 3
+    },
+    {
+      "text": "Your mom after she's read Lady Chatterly's Lover",
+      "pack": 3
+    }
+  ]
+}

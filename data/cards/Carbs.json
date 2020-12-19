@@ -1,0 +1,457 @@
+{
+  "name": "Carbs of the Huge Manatee: Dance Expansion 1",
+  "black": [
+    {
+      "text": "At the end of the night, the venue smelled like _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "I knew he/she was creepy when _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "I really hope the picture of me _ doesn't show up in the facebook photo album.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Mambo is a dance. Salsa is a _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "My dancing would really improve if I worked on two things: my connection and _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Old- and new-school dancers alike were surprised with the success of the _ room at our Friday night dance.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Please be warned, altitude sickness will lead to _, _, and _.",
+      "pick": 3,
+      "pack": 156
+    },
+    {
+      "text": "The _ Dance Exchange",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "The best way to check someone off your dance card is _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "The last time I _, I was _ all night long.",
+      "pick": 2,
+      "pack": 156
+    },
+    {
+      "text": "The old argument of \"Hollywood\" vs. \"Savoy\" is mirrored in the real world by \"_\" vs. \"_.\"",
+      "pick": 2,
+      "pack": 156
+    },
+    {
+      "text": "This year at fusion exchange, we are offering _ at the low price of a dollar a minute.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Today at fusion exchange, I learned _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Wanna dance? I've been taking _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "When I am too tired to keep dancing, I like to _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "When I hear someone say they really only dance fusion, I think _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "When I wake up after dancing till 5AM, I wish _.",
+      "pick": 1,
+      "pack": 156
+    },
+    {
+      "text": "Why did the fusion exchanges end?",
+      "pick": 1,
+      "pack": 156
+    }
+  ],
+  "white": [
+    {
+      "text": "\"Platonic\" cuddle buddies.",
+      "pack": 156
+    },
+    {
+      "text": "(wub)(wub)(wub)",
+      "pack": 156
+    },
+    {
+      "text": "A dance board with \"new ideas.\"",
+      "pack": 156
+    },
+    {
+      "text": "A dance so face-meltingly hot, you have to go to the restroom and check your underwear.",
+      "pack": 156
+    },
+    {
+      "text": "A pretentious DJ who attempts to \"challenge\" the dancers.",
+      "pack": 156
+    },
+    {
+      "text": "Acapella Dubstep.",
+      "pack": 156
+    },
+    {
+      "text": "An elbow to the nose.",
+      "pack": 156
+    },
+    {
+      "text": "An exploded blister.",
+      "pack": 156
+    },
+    {
+      "text": "An Indian co-worker who wears so much cologne you can taste it.",
+      "pack": 156
+    },
+    {
+      "text": "An unexpected massage.",
+      "pack": 156
+    },
+    {
+      "text": "Argentine Tango.",
+      "pack": 156
+    },
+    {
+      "text": "Arm-Leading.",
+      "pack": 156
+    },
+    {
+      "text": "Asking someone to dance who says, \"Oh. I'm not very good.\"",
+      "pack": 156
+    },
+    {
+      "text": "Asking the DJ to play \"Cold Turkey.\"",
+      "pack": 156
+    },
+    {
+      "text": "Austin Blues Predators.",
+      "pack": 156
+    },
+    {
+      "text": "Awkward Eye Contact.",
+      "pack": 156
+    },
+    {
+      "text": "Ballet.",
+      "pack": 156
+    },
+    {
+      "text": "Ballroom Avenger.",
+      "pack": 156
+    },
+    {
+      "text": "Bathrooms with danceable music.",
+      "pack": 156
+    },
+    {
+      "text": "Beaver Clamp.",
+      "pack": 156
+    },
+    {
+      "text": "Because of you people.",
+      "pack": 156
+    },
+    {
+      "text": "Blues Dancing.",
+      "pack": 156
+    },
+    {
+      "text": "Bonerboy.",
+      "pack": 156
+    },
+    {
+      "text": "Children at exchanges.",
+      "pack": 156
+    },
+    {
+      "text": "Clear the Floor.",
+      "pack": 156
+    },
+    {
+      "text": "Completely drunk organizers.",
+      "pack": 156
+    },
+    {
+      "text": "Condoms in the restrooms at the Exchange.",
+      "pack": 156
+    },
+    {
+      "text": "Connection.",
+      "pack": 156
+    },
+    {
+      "text": "Core.",
+      "pack": 156
+    },
+    {
+      "text": "Dance Evangelist.",
+      "pack": 156
+    },
+    {
+      "text": "Dancers are like locusts on food, but more destructive.",
+      "pack": 156
+    },
+    {
+      "text": "Dancers whining to organizers about trivial, stupid shit.",
+      "pack": 156
+    },
+    {
+      "text": "Dancers who don't wash their hands after using the restroom.",
+      "pack": 156
+    },
+    {
+      "text": "Dancesturbation.",
+      "pack": 156
+    },
+    {
+      "text": "Dancing ballroom before ballroom was cool.",
+      "pack": 156
+    },
+    {
+      "text": "Dating within the dance scene.",
+      "pack": 156
+    },
+    {
+      "text": "Dating your dance instructor.",
+      "pack": 156
+    },
+    {
+      "text": "Denver: The Final Fusion Exchange.",
+      "pack": 156
+    },
+    {
+      "text": "Dirty Waltz.",
+      "pack": 156
+    },
+    {
+      "text": "Diva dance instructors.",
+      "pack": 156
+    },
+    {
+      "text": "Don't. Fuck. With. Ivy.",
+      "pack": 156
+    },
+    {
+      "text": "Frankenblues.",
+      "pack": 156
+    },
+    {
+      "text": "Guys going after new follows like piranha on a cow.",
+      "pack": 156
+    },
+    {
+      "text": "Hit me like a real Westie.",
+      "pack": 156
+    },
+    {
+      "text": "I'm not backleading, you're just doing it wrong.",
+      "pack": 156
+    },
+    {
+      "text": "Leaving room for Baby Jesus.",
+      "pack": 156
+    },
+    {
+      "text": "Let Jesus find his own dance partner.",
+      "pack": 156
+    },
+    {
+      "text": "LindyXtreme!",
+      "pack": 156
+    },
+    {
+      "text": "Mad Stylin', yo.",
+      "pack": 156
+    },
+    {
+      "text": "Nice shoes... Wanna dance?",
+      "pack": 156
+    },
+    {
+      "text": "No, I don't watch \"Dancing with the Stars.\"",
+      "pack": 156
+    },
+    {
+      "text": "No, sorry, no.",
+      "pack": 156
+    },
+    {
+      "text": "Organizer murder-suicide pacts.",
+      "pack": 156
+    },
+    {
+      "text": "Organizers with the patience of saints.",
+      "pack": 156
+    },
+    {
+      "text": "Package Delivery.",
+      "pack": 156
+    },
+    {
+      "text": "Please. Dance me nice.",
+      "pack": 156
+    },
+    {
+      "text": "Polka Kills.",
+      "pack": 156
+    },
+    {
+      "text": "Post-Exchange Flu.",
+      "pack": 156
+    },
+    {
+      "text": "Pungent dancer feet.",
+      "pack": 156
+    },
+    {
+      "text": "Recess dancers fucking in the woods.",
+      "pack": 156
+    },
+    {
+      "text": "Recess dancers who don't understand that, if you're in a hotel, they have these magical things called showers.",
+      "pack": 156
+    },
+    {
+      "text": "Socially awkward but a good dancer.",
+      "pack": 156
+    },
+    {
+      "text": "Sorry but we're not sorry.",
+      "pack": 156
+    },
+    {
+      "text": "Spaghetti arms.",
+      "pack": 156
+    },
+    {
+      "text": "Tango shoes.",
+      "pack": 156
+    },
+    {
+      "text": "That sketchy guy hitting on the inappropriately young girls.",
+      "pack": 156
+    },
+    {
+      "text": "That special sweaty moldy smell of tee-shirts that were danced-in, washed, not dried soon enough, and then danced in again to release that unique bouquet...",
+      "pack": 156
+    },
+    {
+      "text": "The ability to get drunk at altitude after one drink but not stopping.",
+      "pack": 156
+    },
+    {
+      "text": "The clinging stench of that last person you danced with.",
+      "pack": 156
+    },
+    {
+      "text": "The Hangar Dance.",
+      "pack": 156
+    },
+    {
+      "text": "The Hokey-Pokey.",
+      "pack": 156
+    },
+    {
+      "text": "The hunched posture teenage girls get from texting all the time.",
+      "pack": 156
+    },
+    {
+      "text": "The Lambada: The Forbidden Dance.",
+      "pack": 156
+    },
+    {
+      "text": "The Life of Robert Johnson: The Illustrated Children's Book. Note: Robert Johnson was a blues musician who sold his soul to the Devil for guitar-playing skills.",
+      "pack": 156
+    },
+    {
+      "text": "The most convoluted pricing structure ever.",
+      "pack": 156
+    },
+    {
+      "text": "The number of fallen angels who can blues dance on the head of a pin.",
+      "pack": 156
+    },
+    {
+      "text": "The underrepresentation of African-American dancers at Blues events.",
+      "pack": 156
+    },
+    {
+      "text": "The wearing of lingerie as clothing while sweatily dancing.",
+      "pack": 156
+    },
+    {
+      "text": "The wrong kind of gluten-free bread.",
+      "pack": 156
+    },
+    {
+      "text": "Their attractiveness doesn't match their dance ability.",
+      "pack": 156
+    },
+    {
+      "text": "Three-way dances.",
+      "pack": 156
+    },
+    {
+      "text": "Trip hop.",
+      "pack": 156
+    },
+    {
+      "text": "Twerking.",
+      "pack": 156
+    },
+    {
+      "text": "Two Step.",
+      "pack": 156
+    },
+    {
+      "text": "Two way objectification.",
+      "pack": 156
+    },
+    {
+      "text": "Ugly Exchange Tee-shirts.",
+      "pack": 156
+    },
+    {
+      "text": "Unshaven female armpits.",
+      "pack": 156
+    },
+    {
+      "text": "Wandering hands.",
+      "pack": 156
+    },
+    {
+      "text": "Westies.",
+      "pack": 156
+    },
+    {
+      "text": "Wishing that people would look at you as a piece of meat instead of merely dance candy.",
+      "pack": 156
+    }
+  ]
+}

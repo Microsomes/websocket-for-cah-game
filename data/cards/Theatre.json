@@ -1,0 +1,132 @@
+{
+  "name": "Theatre Pack",
+  "black": [
+    {
+      "text": "Alright everybody, HOLD!\nKelly, why is there _ on my stage?",
+      "pick": 1,
+      "pack": 148
+    },
+    {
+      "text": "Comedy = Tragedy + _.",
+      "pick": 1,
+      "pack": 148
+    },
+    {
+      "text": "Let's take it from the top, and remember, you are _. Show me  _(SAME CARD AGAIN)_.",
+      "pick": 3,
+      "pack": 148
+    },
+    {
+      "text": "Match-maker,\nmatch-maker,\nmake me a match.\nFind me _.",
+      "pick": 1,
+      "pack": 148
+    },
+    {
+      "text": "This season at Manhattan Theatre Club: \"Who's afraid of _?\"",
+      "pick": 1,
+      "pack": 148
+    }
+  ],
+  "white": [
+    {
+      "text": "A dead salesman.",
+      "pack": 148
+    },
+    {
+      "text": "A Drama Desk Award for Outstanding Sound Design in a Play.",
+      "pack": 148
+    },
+    {
+      "text": "A fog machine.",
+      "pack": 148
+    },
+    {
+      "text": "A play about people I don't like doing things I don't care about.",
+      "pack": 148
+    },
+    {
+      "text": "Absolutely butchering Sondheim.",
+      "pack": 148
+    },
+    {
+      "text": "All 59 inches of Kristin Chenoweth.",
+      "pack": 148
+    },
+    {
+      "text": "An autographed headshot of Nathan Lane.",
+      "pack": 148
+    },
+    {
+      "text": "Being crushed to death by a stage light.",
+      "pack": 148
+    },
+    {
+      "text": "Brief male nudity.",
+      "pack": 148
+    },
+    {
+      "text": "Five miso soups, four seaweed salads, three soy burger dinners, two tofu dog platters, and one pasta with meatless meatballs.",
+      "pack": 148
+    },
+    {
+      "text": "Forgetting your lines, shitting your pants, and your pants falling down.",
+      "pack": 148
+    },
+    {
+      "text": "Improv comedy.",
+      "pack": 148
+    },
+    {
+      "text": "Killing Dad and fucking Mom.",
+      "pack": 148
+    },
+    {
+      "text": "Linda, 18 but wise beyond her years, achingly beautiful.",
+      "pack": 148
+    },
+    {
+      "text": "My whole family watching.",
+      "pack": 148
+    },
+    {
+      "text": "Narcissistic Personality Disorder.",
+      "pack": 148
+    },
+    {
+      "text": "Problematic depictions of Asian characters.",
+      "pack": 148
+    },
+    {
+      "text": "Rampant misogyny and sexual harassment.",
+      "pack": 148
+    },
+    {
+      "text": "Taking a year off to study Japanese puppet theatre.",
+      "pack": 148
+    },
+    {
+      "text": "The Phantom of the Opera.",
+      "pack": 148
+    },
+    {
+      "text": "The wickedly talented, one and only, Adele Dazeem.",
+      "pack": 148
+    },
+    {
+      "text": "This old lady next to me who won't stop farting.",
+      "pack": 148
+    },
+    {
+      "text": "Two contrasting monologues-- one classical, one contemporary.",
+      "pack": 148
+    },
+    {
+      "text": "Two men in a horse costume.",
+      "pack": 148
+    },
+    {
+      "text": "Two tickets to Hamilton.",
+      "pack": 148
+    }
+  ]
+}

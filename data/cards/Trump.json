@@ -1,0 +1,110 @@
+{
+  "name": "Trump Bug Out Bag/Post-Trump Pack",
+  "black": [
+    {
+      "text": "Donald Trump has nominated _ for his VP.",
+      "pick": 1,
+      "pack": 177
+    },
+    {
+      "text": "Donald Trump's first act as presidnet was to outlaw _.",
+      "pick": 1,
+      "pack": 177
+    },
+    {
+      "text": "In 2019, Donald Trump eliminated our national parks to make room for _.",
+      "pick": 1,
+      "pack": 177
+    }
+  ],
+  "white": [
+    {
+      "text": "A back-alley abortion from a Mexican cyborg doctor.",
+      "pack": 177
+    },
+    {
+      "text": "A father and son fighting each other over the last scrap of bread.",
+      "pack": 177
+    },
+    {
+      "text": "A gnawing sense of dread.",
+      "pack": 177
+    },
+    {
+      "text": "A legitimate reason to commit suicide.",
+      "pack": 177
+    },
+    {
+      "text": "Bringing millions of dangerous low-paying manufacturing jobs back to America.",
+      "pack": 177
+    },
+    {
+      "text": "Burying my only son.",
+      "pack": 177
+    },
+    {
+      "text": "Casual dismissiveness.",
+      "pack": 177
+    },
+    {
+      "text": "Desperately hurling insults at Donald Trump as he absorbs them into his rapidly expanding body.",
+      "pack": 177
+    },
+    {
+      "text": "Drinking urine to survive.",
+      "pack": 177
+    },
+    {
+      "text": "Extra rations for my little girl.",
+      "pack": 177
+    },
+    {
+      "text": "Finding out that democracy might not be such a great idea.",
+      "pack": 177
+    },
+    {
+      "text": "Making Islam illegal.",
+      "pack": 177
+    },
+    {
+      "text": "Mild amusement.",
+      "pack": 177
+    },
+    {
+      "text": "Nuclear winter.",
+      "pack": 177
+    },
+    {
+      "text": "President Donald Trump.",
+      "pack": 177
+    },
+    {
+      "text": "Rage.",
+      "pack": 177
+    },
+    {
+      "text": "Roaming through a wasteland of windblown trash and deserted highways.",
+      "pack": 177
+    },
+    {
+      "text": "The purging of the disloyal.",
+      "pack": 177
+    },
+    {
+      "text": "Trying to remember what music was.",
+      "pack": 177
+    },
+    {
+      "text": "Trying to wake up from this nightmare.",
+      "pack": 177
+    },
+    {
+      "text": "Whipping lower-class white men into a xenophobic frenzy.",
+      "pack": 177
+    },
+    {
+      "text": "World Wars 3 through 5.",
+      "pack": 177
+    }
+  ]
+}

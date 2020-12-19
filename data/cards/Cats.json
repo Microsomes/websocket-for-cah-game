@@ -1,0 +1,52 @@
+{
+  "name": "Cats Abiding Horribly Bonus Cards",
+  "black": [
+    {
+      "text": "Fear leads to anger. Anger leads to hate. Hate leads to _.",
+      "pick": 1,
+      "pack": 182
+    },
+    {
+      "text": "I'm not easily excited, but _ really makes me moist.",
+      "pick": 1,
+      "pack": 182
+    },
+    {
+      "text": "Jesus didn't just resurrect the dead and turned water into wine, he was also very apt in _.",
+      "pick": 1,
+      "pack": 182
+    },
+    {
+      "text": "On the Third day of Christmas my true love sent to me _.",
+      "pick": 1,
+      "pack": 182
+    },
+    {
+      "text": "Who let the dogs out?",
+      "pick": 1,
+      "pack": 182
+    }
+  ],
+  "white": [
+    {
+      "text": "A selfie stick.",
+      "pack": 182
+    },
+    {
+      "text": "Beheading kafirs.",
+      "pack": 182
+    },
+    {
+      "text": "Butt enhancement surgery.",
+      "pack": 182
+    },
+    {
+      "text": "Performing the Cleveland Steamer on my dying grandpa.",
+      "pack": 182
+    },
+    {
+      "text": "The Donald.",
+      "pack": 182
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "name": "Fun in the Oven",
+  "black": [
+    {
+      "text": "_, it's even worse that a poopy diaper!",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "_, there's a cream for that.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "All I want for Christmas is a day without _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "At 8 months pregnant, mom should do (or have) a lot of _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Before 1 year of age, the baby should be careful to avoid _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Dad seems to never notice _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Dad shouldn't be playing with _ like a toy.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Grandma recommends _ to help with _.",
+      "pick": 2,
+      "pack": 99
+    },
+    {
+      "text": "How I got the baby to sleep.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I couldn't believe it when I learned about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I know my baby always looks forward to _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I now look at _ differently.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I often regret not (having) _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I should have learned more about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "I'm always fashionable with _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Mom fell asleep while dreaming of _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "My first thought when my water broke was _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "My friends question my decision about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "My Mother-in-law won't stop bugging me about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Never tell an expectant father about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Now that I have kids, my desire for _ has diminished.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Now that my child is in day care, I think about _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Oh my, it's _!",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Oops... I spent the baby's college fund on _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Sometimes I long for _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "The best form of contraception is _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "The best thing about my partner is _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "The best way to avoid getting pregnant is _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "The thing I miss the most about life before children is _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "The thing the baby shower is missing is _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "To celebrate _, tonight we are (having) _.",
+      "pick": 2,
+      "pack": 99
+    },
+    {
+      "text": "We're _!",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "What helps mom go to sleep?",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "What to expect when you're expecting.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "What's that sound?",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "When I breastfeed I'm thinking of _.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Where do babies come from?",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Why I feel nervous.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Why I'm always running late.",
+      "pick": 1,
+      "pack": 99
+    },
+    {
+      "text": "Why I'm so excited.",
+      "pick": 1,
+      "pack": 99
+    }
+  ],
+  "white": [
+    {
+      "text": "A 103° fever.",
+      "pack": 99
+    },
+    {
+      "text": "A Baby Bjorn.",
+      "pack": 99
+    },
+    {
+      "text": "A banana and two cherries.",
+      "pack": 99
+    },
+    {
+      "text": "A boy.",
+      "pack": 99
+    },
+    {
+      "text": "A breath of fresh air",
+      "pack": 99
+    },
+    {
+      "text": "A broken condom.",
+      "pack": 99
+    },
+    {
+      "text": "A bun in the oven.",
+      "pack": 99
+    },
+    {
+      "text": "A changing table at a gas station.",
+      "pack": 99
+    },
+    {
+      "text": "A choking hazard.",
+      "pack": 99
+    },
+    {
+      "text": "A Costco-sized container of wet naps.",
+      "pack": 99
+    },
+    {
+      "text": "A dental damn.",
+      "pack": 99
+    },
+    {
+      "text": "A diaper full of melted candy bars.",
+      "pack": 99
+    },
+    {
+      "text": "A Diaper Genie.",
+      "pack": 99
+    },
+    {
+      "text": "A dirty martini.",
+      "pack": 99
+    },
+    {
+      "text": "A family outing.",
+      "pack": 99
+    },
+    {
+      "text": "A girl.",
+      "pack": 99
+    },
+    {
+      "text": "A grown man wearing diapers and sucking on a bottle.",
+      "pack": 99
+    },
+    {
+      "text": "A high chair.",
+      "pack": 99
+    },
+    {
+      "text": "A home water birth.",
+      "pack": 99
+    },
+    {
+      "text": "A life.",
+      "pack": 99
+    },
+    {
+      "text": "A lotus birth.",
+      "pack": 99
+    },
+    {
+      "text": "A moment so special you realize it was all worth it.",
+      "pack": 99
+    },
+    {
+      "text": "A needle as long as your forearm.",
+      "pack": 99
+    },
+    {
+      "text": "A pack of unfiltered cigarettes.",
+      "pack": 99
+    },
+    {
+      "text": "A Pentecostal, snake-handling chaplain in the Kentucky National Guard.",
+      "pack": 99
+    },
+    {
+      "text": "A poopy diaper.",
+      "pack": 99
+    },
+    {
+      "text": "A positive pregnancy test.",
+      "pack": 99
+    },
+    {
+      "text": "A prenatal massage.",
+      "pack": 99
+    },
+    {
+      "text": "A rush of oxytocin.",
+      "pack": 99
+    },
+    {
+      "text": "A shotgun wedding.",
+      "pack": 99
+    },
+    {
+      "text": "A sippy cup.",
+      "pack": 99
+    },
+    {
+      "text": "A sound night's sleep.",
+      "pack": 99
+    },
+    {
+      "text": "A surrogate wish list.",
+      "pack": 99
+    },
+    {
+      "text": "A trail of Cheerios leading to the hall closet.",
+      "pack": 99
+    },
+    {
+      "text": "a twat flash",
+      "pack": 99
+    },
+    {
+      "text": "A vasectomy.",
+      "pack": 99
+    },
+    {
+      "text": "A virgin birth.",
+      "pack": 99
+    },
+    {
+      "text": "A wet nurse.",
+      "pack": 99
+    },
+    {
+      "text": "Alcohol.",
+      "pack": 99
+    },
+    {
+      "text": "Aliens.",
+      "pack": 99
+    },
+    {
+      "text": "An awkward middle name.",
+      "pack": 99
+    },
+    {
+      "text": "An epidural.",
+      "pack": 99
+    },
+    {
+      "text": "An episiotomy.",
+      "pack": 99
+    },
+    {
+      "text": "An unexpected stripper.",
+      "pack": 99
+    },
+    {
+      "text": "Baby butt cream.",
+      "pack": 99
+    },
+    {
+      "text": "Baby proofing the house.",
+      "pack": 99
+    },
+    {
+      "text": "Baby sign language.",
+      "pack": 99
+    },
+    {
+      "text": "Baby's first step.",
+      "pack": 99
+    },
+    {
+      "text": "Baby's first word.",
+      "pack": 99
+    },
+    {
+      "text": "Bath time.",
+      "pack": 99
+    },
+    {
+      "text": "Being 9½ months pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "Being 99% sure the baby is yours.",
+      "pack": 99
+    },
+    {
+      "text": "Being able to eat whatever you want... except a long list of things.",
+      "pack": 99
+    },
+    {
+      "text": "Being knocked up.",
+      "pack": 99
+    },
+    {
+      "text": "Being mistaken for the nanny.",
+      "pack": 99
+    },
+    {
+      "text": "Bieng covered in partially digested breast milk... all the time.",
+      "pack": 99
+    },
+    {
+      "text": "Bodily functions.",
+      "pack": 99
+    },
+    {
+      "text": "Breastfeeding in public.",
+      "pack": 99
+    },
+    {
+      "text": "Caffeine.",
+      "pack": 99
+    },
+    {
+      "text": "Captain Fetus.",
+      "pack": 99
+    },
+    {
+      "text": "Celebrity baby names.",
+      "pack": 99
+    },
+    {
+      "text": "Chafed nipples.",
+      "pack": 99
+    },
+    {
+      "text": "Checking for GMOs on every food label.",
+      "pack": 99
+    },
+    {
+      "text": "Child beauty pageants.",
+      "pack": 99
+    },
+    {
+      "text": "Choosing a baby name based on its availability as a website.",
+      "pack": 99
+    },
+    {
+      "text": "Choosing disposable diapers.",
+      "pack": 99
+    },
+    {
+      "text": "Choosing not to know the baby's gender.",
+      "pack": 99
+    },
+    {
+      "text": "Circumcision.",
+      "pack": 99
+    },
+    {
+      "text": "Cleaning the pacifier by wiping it with your mouth.",
+      "pack": 99
+    },
+    {
+      "text": "Comfortable sweatpants.",
+      "pack": 99
+    },
+    {
+      "text": "Contraception.",
+      "pack": 99
+    },
+    {
+      "text": "Cryopreserved cord blood.",
+      "pack": 99
+    },
+    {
+      "text": "Cutting the umbilical cord.",
+      "pack": 99
+    },
+    {
+      "text": "Dad singing lullabies.",
+      "pack": 99
+    },
+    {
+      "text": "Dad.",
+      "pack": 99
+    },
+    {
+      "text": "Dancing all night.",
+      "pack": 99
+    },
+    {
+      "text": "Date night.",
+      "pack": 99
+    },
+    {
+      "text": "Deciding whether babies are allowed in the \"man cave\".",
+      "pack": 99
+    },
+    {
+      "text": "Eating for two.",
+      "pack": 99
+    },
+    {
+      "text": "Eating solid foods.",
+      "pack": 99
+    },
+    {
+      "text": "Eating the placenta.",
+      "pack": 99
+    },
+    {
+      "text": "Elimination communication (poop talk).",
+      "pack": 99
+    },
+    {
+      "text": "Encapsulating the placenta.",
+      "pack": 99
+    },
+    {
+      "text": "Epic farts.",
+      "pack": 99
+    },
+    {
+      "text": "Explaining unconvetional family situations.",
+      "pack": 99
+    },
+    {
+      "text": "Explosive poop.",
+      "pack": 99
+    },
+    {
+      "text": "False labor.",
+      "pack": 99
+    },
+    {
+      "text": "Feeling like you've finally created something worthwhile.",
+      "pack": 99
+    },
+    {
+      "text": "Feeling the baby kick for the first time.",
+      "pack": 99
+    },
+    {
+      "text": "Feeling tired.",
+      "pack": 99
+    },
+    {
+      "text": "Filling out preschool applications while still pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "Finding an OB/GYN that understands \"your needs\".",
+      "pack": 99
+    },
+    {
+      "text": "Finding out where babies really come from.",
+      "pack": 99
+    },
+    {
+      "text": "Finding out who the baby daddy is on a talk show.",
+      "pack": 99
+    },
+    {
+      "text": "Finding yourself in a delicate way.",
+      "pack": 99
+    },
+    {
+      "text": "Finding yourself in a family way.",
+      "pack": 99
+    },
+    {
+      "text": "Following the \"helpful\"advice of uncle Rick.",
+      "pack": 99
+    },
+    {
+      "text": "Formula made in China.",
+      "pack": 99
+    },
+    {
+      "text": "Fornication.",
+      "pack": 99
+    },
+    {
+      "text": "Fries dipped in a chocolate milkshake.",
+      "pack": 99
+    },
+    {
+      "text": "Gagging on a horse-pill sized prenatal vitamin.",
+      "pack": 99
+    },
+    {
+      "text": "Gerber baby food.",
+      "pack": 99
+    },
+    {
+      "text": "Gestational diabetes.",
+      "pack": 99
+    },
+    {
+      "text": "Getting pee in your face while changing a diaper.",
+      "pack": 99
+    },
+    {
+      "text": "Getting pregnant the first time you have sex.",
+      "pack": 99
+    },
+    {
+      "text": "Getting your friends to help with a post-baby Meal Train.",
+      "pack": 99
+    },
+    {
+      "text": "Giving a positive reaction to a baby shower gift you don't want.",
+      "pack": 99
+    },
+    {
+      "text": "Giving all the kids a present on everyone's birthday so no one gets jealous.",
+      "pack": 99
+    },
+    {
+      "text": "Going back to work to pay for preschool.",
+      "pack": 99
+    },
+    {
+      "text": "Going into labor.",
+      "pack": 99
+    },
+    {
+      "text": "Going on vacation.",
+      "pack": 99
+    },
+    {
+      "text": "Going to the ER in a panic only to discover nothing is wrong.",
+      "pack": 99
+    },
+    {
+      "text": "Googling \"breastfeeding\" and finding more than you bargained for.",
+      "pack": 99
+    },
+    {
+      "text": "Having a beer to stimulate milk production.",
+      "pack": 99
+    },
+    {
+      "text": "Having a stranger touch your belly.",
+      "pack": 99
+    },
+    {
+      "text": "Having another baby.",
+      "pack": 99
+    },
+    {
+      "text": "Having just one glass of champagne.",
+      "pack": 99
+    },
+    {
+      "text": "Having more sex while pregnant than you were before.",
+      "pack": 99
+    },
+    {
+      "text": "Having sex too soon after giving birth.",
+      "pack": 99
+    },
+    {
+      "text": "Having surprise twins... or triplets!",
+      "pack": 99
+    },
+    {
+      "text": "Having your mom stay for a week to help with the new baby.",
+      "pack": 99
+    },
+    {
+      "text": "Hemorrhoids?",
+      "pack": 99
+    },
+    {
+      "text": "Holding the baby for the first time.",
+      "pack": 99
+    },
+    {
+      "text": "Homemade baby food.",
+      "pack": 99
+    },
+    {
+      "text": "Hoping you go into labor before Mecury goes retrograde.",
+      "pack": 99
+    },
+    {
+      "text": "Hormonal changes.",
+      "pack": 99
+    },
+    {
+      "text": "Hot maternity lingerie.",
+      "pack": 99
+    },
+    {
+      "text": "In utero baby hiccups.",
+      "pack": 99
+    },
+    {
+      "text": "Inappropriate boners.",
+      "pack": 99
+    },
+    {
+      "text": "Inappropriate questions about your weight before you've told anyone you're pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "Inducing labor.",
+      "pack": 99
+    },
+    {
+      "text": "Intersex gender.",
+      "pack": 99
+    },
+    {
+      "text": "Itchy homemade baby blankets.",
+      "pack": 99
+    },
+    {
+      "text": "Justifying my life choices to well-meaning strangers.",
+      "pack": 99
+    },
+    {
+      "text": "Kangaroo care.",
+      "pack": 99
+    },
+    {
+      "text": "Keeping your favorite baby stroller...even after it has been recalled.",
+      "pack": 99
+    },
+    {
+      "text": "Knowing what your baby is saying even when it sounds like gibberish to everyone else.",
+      "pack": 99
+    },
+    {
+      "text": "Lame baby shower games.",
+      "pack": 99
+    },
+    {
+      "text": "Lead based toys.",
+      "pack": 99
+    },
+    {
+      "text": "Learning another language so your baby can grow up bilingual.",
+      "pack": 99
+    },
+    {
+      "text": "Letting the pregnant lady cut ahead of you in the bathroom line.",
+      "pack": 99
+    },
+    {
+      "text": "Lochia. (don't ask)",
+      "pack": 99
+    },
+    {
+      "text": "Looking forward to the first family Christmas photo with the new baby.",
+      "pack": 99
+    },
+    {
+      "text": "Losing my virginity.",
+      "pack": 99
+    },
+    {
+      "text": "LSD.",
+      "pack": 99
+    },
+    {
+      "text": "Making a decision about what to do with the placenta.",
+      "pack": 99
+    },
+    {
+      "text": "Maternity fashion.",
+      "pack": 99
+    },
+    {
+      "text": "Meconium, or \"Black tar alien poop\".",
+      "pack": 99
+    },
+    {
+      "text": "Milky dribble.",
+      "pack": 99
+    },
+    {
+      "text": "Mistaking diaper cream for sunscreen.",
+      "pack": 99
+    },
+    {
+      "text": "Mittelschmerz.",
+      "pack": 99
+    },
+    {
+      "text": "Mom's ability to take a cock.",
+      "pack": 99
+    },
+    {
+      "text": "Mommy's little helper.",
+      "pack": 99
+    },
+    {
+      "text": "Mood swings.",
+      "pack": 99
+    },
+    {
+      "text": "morning wood",
+      "pack": 99
+    },
+    {
+      "text": "Mother's intuition.",
+      "pack": 99
+    },
+    {
+      "text": "Mother's love?",
+      "pack": 99
+    },
+    {
+      "text": "My mother-in-law's advice.",
+      "pack": 99
+    },
+    {
+      "text": "Naming the baby after a celebrity that suffers a scandal a year later.",
+      "pack": 99
+    },
+    {
+      "text": "Natural childbirth.",
+      "pack": 99
+    },
+    {
+      "text": "Neck cheese.",
+      "pack": 99
+    },
+    {
+      "text": "Night-vision baby monitors.",
+      "pack": 99
+    },
+    {
+      "text": "Not being able to take the baby... anywhere!",
+      "pack": 99
+    },
+    {
+      "text": "Not being sure whether that's the baby kicking... or gas.",
+      "pack": 99
+    },
+    {
+      "text": "On the playa... six months pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "One million YouTube views of \"Doo Doo on Dada\".",
+      "pack": 99
+    },
+    {
+      "text": "Onesies branded with cultural references the baby will never get.",
+      "pack": 99
+    },
+    {
+      "text": "Organic everything.",
+      "pack": 99
+    },
+    {
+      "text": "Ovaries... the female gonads.",
+      "pack": 99
+    },
+    {
+      "text": "Peeing?",
+      "pack": 99
+    },
+    {
+      "text": "Phantom pregnancy.",
+      "pack": 99
+    },
+    {
+      "text": "Pickles and ice cream.",
+      "pack": 99
+    },
+    {
+      "text": "Post-partum depression.",
+      "pack": 99
+    },
+    {
+      "text": "Posting the baby's video sonogram on the internet.",
+      "pack": 99
+    },
+    {
+      "text": "Pregnancy euphemisms.",
+      "pack": 99
+    },
+    {
+      "text": "Pregnancy gas.",
+      "pack": 99
+    },
+    {
+      "text": "Projectile vomiting",
+      "pack": 99
+    },
+    {
+      "text": "Prom night.",
+      "pack": 99
+    },
+    {
+      "text": "Pulling pits.",
+      "pack": 99
+    },
+    {
+      "text": "Pumping breast milk.",
+      "pack": 99
+    },
+    {
+      "text": "Pureed peas.",
+      "pack": 99
+    },
+    {
+      "text": "Putting a condom on a banana.",
+      "pack": 99
+    },
+    {
+      "text": "Putting a rolled up towel next to you so you don't smother your co-sleeping baby.",
+      "pack": 99
+    },
+    {
+      "text": "Putting it up for adoption.",
+      "pack": 99
+    },
+    {
+      "text": "Putting the car seat in the front to use the carpool lane.",
+      "pack": 99
+    },
+    {
+      "text": "Realizing \"cribs\" is not just a TV show.",
+      "pack": 99
+    },
+    {
+      "text": "Realizing the hospital doesn't allow video cameras in the delivery room.",
+      "pack": 99
+    },
+    {
+      "text": "Realizing the only two phone numbers you know are your spouse's and OB/GYN's.",
+      "pack": 99
+    },
+    {
+      "text": "Recreational drugs.",
+      "pack": 99
+    },
+    {
+      "text": "Remembering how much fun a rattle can be... at first.",
+      "pack": 99
+    },
+    {
+      "text": "Requesting a paternity test.",
+      "pack": 99
+    },
+    {
+      "text": "Requesting an epidural too late.",
+      "pack": 99
+    },
+    {
+      "text": "Same-sex parents.",
+      "pack": 99
+    },
+    {
+      "text": "Scheduling a C-section a week early.",
+      "pack": 99
+    },
+    {
+      "text": "Secretly driving the baby without a car seat.",
+      "pack": 99
+    },
+    {
+      "text": "Seeing your feet again.",
+      "pack": 99
+    },
+    {
+      "text": "Skin as smooth as a baby's bottom.",
+      "pack": 99
+    },
+    {
+      "text": "Sleeping through the night.",
+      "pack": 99
+    },
+    {
+      "text": "Soft cheeses.",
+      "pack": 99
+    },
+    {
+      "text": "Somehow managing to fall asleep with a fragile infant next to you.",
+      "pack": 99
+    },
+    {
+      "text": "Spending the baby's college fund.",
+      "pack": 99
+    },
+    {
+      "text": "Spermicide.",
+      "pack": 99
+    },
+    {
+      "text": "Strained carrots.",
+      "pack": 99
+    },
+    {
+      "text": "Striking for the newest rate: Navy Person.",
+      "pack": 99
+    },
+    {
+      "text": "Sucking snot out of the baby's nose.",
+      "pack": 99
+    },
+    {
+      "text": "Sunbathing your belly to prevent jaundice in the baby.",
+      "pack": 99
+    },
+    {
+      "text": "Sushi.",
+      "pack": 99
+    },
+    {
+      "text": "Swaddling.",
+      "pack": 99
+    },
+    {
+      "text": "Swimming in utero.",
+      "pack": 99
+    },
+    {
+      "text": "Swollen ankles.",
+      "pack": 99
+    },
+    {
+      "text": "Taking a 9+ month menstruation vacation.",
+      "pack": 99
+    },
+    {
+      "text": "Taking an extended paternity leave.",
+      "pack": 99
+    },
+    {
+      "text": "Talc-free baby powder.",
+      "pack": 99
+    },
+    {
+      "text": "Teenagers recording themselves singing",
+      "pack": 99
+    },
+    {
+      "text": "Telling people the baby's first word was \"mom\" when it was really \"muh\".",
+      "pack": 99
+    },
+    {
+      "text": "Temper tantrums.",
+      "pack": 99
+    },
+    {
+      "text": "Ten fingers and ten toes... whew!",
+      "pack": 99
+    },
+    {
+      "text": "Terrible kids TV shows.",
+      "pack": 99
+    },
+    {
+      "text": "That new baby smell.",
+      "pack": 99
+    },
+    {
+      "text": "That pregnancy glow.",
+      "pack": 99
+    },
+    {
+      "text": "That thing where your doula is also your sister.",
+      "pack": 99
+    },
+    {
+      "text": "The broken promise to abstain until marriage.",
+      "pack": 99
+    },
+    {
+      "text": "The comforting embrace of the womb.",
+      "pack": 99
+    },
+    {
+      "text": "The cool touch of a rectal thermometer.",
+      "pack": 99
+    },
+    {
+      "text": "The doctor telling you it's not real, it's all ion your head.",
+      "pack": 99
+    },
+    {
+      "text": "The fear that you will have an evil, talking baby like Stewie from \"Family Guy\".",
+      "pack": 99
+    },
+    {
+      "text": "The feeling you get when the baby looks back at you with \"your eyes\".",
+      "pack": 99
+    },
+    {
+      "text": "The hot nanny.",
+      "pack": 99
+    },
+    {
+      "text": "The latest in stroller technology.",
+      "pack": 99
+    },
+    {
+      "text": "The pain, the pain. Oh god! The pain.",
+      "pack": 99
+    },
+    {
+      "text": "The rhythm method.",
+      "pack": 99
+    },
+    {
+      "text": "The straight agenda.",
+      "pack": 99
+    },
+    {
+      "text": "The terrible twos.",
+      "pack": 99
+    },
+    {
+      "text": "The torrid romance of scheduling sex around ovulation.",
+      "pack": 99
+    },
+    {
+      "text": "The water breaking at an inopportune time.",
+      "pack": 99
+    },
+    {
+      "text": "Throwing a gender revealing party.",
+      "pack": 99
+    },
+    {
+      "text": "Throwing Cheerios on the floor.",
+      "pack": 99
+    },
+    {
+      "text": "Throwing the baby out with the bathwater.",
+      "pack": 99
+    },
+    {
+      "text": "TMI.",
+      "pack": 99
+    },
+    {
+      "text": "Toddlers in tiaras.",
+      "pack": 99
+    },
+    {
+      "text": "Tongue thrusts. (reverse swallowing)",
+      "pack": 99
+    },
+    {
+      "text": "Trying to feel at home in the delivery room.",
+      "pack": 99
+    },
+    {
+      "text": "Trying to find the baby on a sonogram.",
+      "pack": 99
+    },
+    {
+      "text": "Unidentifiable rashes.",
+      "pack": 99
+    },
+    {
+      "text": "Using the last baby wipe when you desparately need another one.",
+      "pack": 99
+    },
+    {
+      "text": "Vaginas.",
+      "pack": 99
+    },
+    {
+      "text": "Vanishing twin. (fetal reabsorption)",
+      "pack": 99
+    },
+    {
+      "text": "Vomit volume in proportion to the niceness of the restaurant you are in.",
+      "pack": 99
+    },
+    {
+      "text": "Vomiting and pooping at the same time.",
+      "pack": 99
+    },
+    {
+      "text": "Waiting past 12 weeks to tell your friends and family you are pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "Waiting too long after giving birth to have sex.",
+      "pack": 99
+    },
+    {
+      "text": "Watermelon!",
+      "pack": 99
+    },
+    {
+      "text": "Waxing \"down there\" before going into labor.",
+      "pack": 99
+    },
+    {
+      "text": "Whiskey on the gums.",
+      "pack": 99
+    },
+    {
+      "text": "Wishing I hadn't gottn that tattoo on my stomach.",
+      "pack": 99
+    },
+    {
+      "text": "Wishing it was you in the Mamaroo.",
+      "pack": 99
+    },
+    {
+      "text": "Women who say they love being pregnant.",
+      "pack": 99
+    },
+    {
+      "text": "Worrying about getting back to \"pre baby\" weight.",
+      "pack": 99
+    },
+    {
+      "text": "Worrying about whether it's BPA-free.",
+      "pack": 99
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Food Pack",
+  "black": [
+    {
+      "text": "Aw babe, your burbs smell like _.",
+      "pick": 1,
+      "pack": 157
+    },
+    {
+      "text": "Don`t fear failure fear _",
+      "pick": 1,
+      "pack": 157
+    },
+    {
+      "text": "Excuse me, waiter. Could you take this back? This soup tastes like _.",
+      "pick": 1,
+      "pack": 157
+    },
+    {
+      "text": "I'm Bobby Flay, and if you can't stand _. get out of the kitchen!",
+      "pick": 1,
+      "pack": 157
+    },
+    {
+      "text": "It's not delivery. It's _.",
+      "pick": 1,
+      "pack": 157
+    },
+    {
+      "text": "Now on Netflix: Jiro Dreams Of _.",
+      "pick": 1,
+      "pack": 157
+    }
+  ],
+  "white": [
+    {
+      "text": "A belly full of hard-boiled eggs.",
+      "pack": 157
+    },
+    {
+      "text": "A joyless vegan party.",
+      "pack": 157
+    },
+    {
+      "text": "A sobering quantity of chili cheese fries.",
+      "pack": 157
+    },
+    {
+      "text": "A table for one at The Cheesecake Factory.",
+      "pack": 157
+    },
+    {
+      "text": "Being emotionally and physically dominated by Gordon Ramsay.",
+      "pack": 157
+    },
+    {
+      "text": "Clamping down on a gazelle's jugular and tasting its warm life waters.",
+      "pack": 157
+    },
+    {
+      "text": "Committing suicide at the Old Country Buffet.",
+      "pack": 157
+    },
+    {
+      "text": "Faulty UIDs.",
+      "pack": 157
+    },
+    {
+      "text": "Going vegetarian and feeling so great all the time.",
+      "pack": 157
+    },
+    {
+      "text": "Jizz Twinkies.",
+      "pack": 157
+    },
+    {
+      "text": "Kale farts.",
+      "pack": 157
+    },
+    {
+      "text": "Kevin Bacon Bits.",
+      "pack": 157
+    },
+    {
+      "text": "Licking the cake batter off of grandma's fingers.",
+      "pack": 157
+    },
+    {
+      "text": "Not knowing what to believe anymore about butter.",
+      "pack": 157
+    },
+    {
+      "text": "Oreos for dinner.",
+      "pack": 157
+    },
+    {
+      "text": "Real cheese flavor.",
+      "pack": 157
+    },
+    {
+      "text": "Soup.",
+      "pack": 157
+    },
+    {
+      "text": "Sucking down thousands of pounds of krill every day.",
+      "pack": 157
+    },
+    {
+      "text": "Swishing the wine around and sniffing it like a big fancy man.",
+      "pack": 157
+    },
+    {
+      "text": "The Dial-A-Slice Apple Divider from Williams-Sonoma.",
+      "pack": 157
+    },
+    {
+      "text": "The Hellman's Mayonnaise Corporation.",
+      "pack": 157
+    },
+    {
+      "text": "The hot dog I put in my vagina ten days ago.",
+      "pack": 157
+    },
+    {
+      "text": "The inaudible screams of carrots.",
+      "pack": 157
+    },
+    {
+      "text": "What to do with all of this chocolate on my penis.",
+      "pack": 157
+    }
+  ]
+}

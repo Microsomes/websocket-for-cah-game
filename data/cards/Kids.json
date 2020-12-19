@@ -1,0 +1,1907 @@
+{
+  "name": "Kids Create Absurdity",
+  "black": [
+    {
+      "text": "*RANDOM*\nHand this card to another player and have them: MAKE A LOUD FART NOISE",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "*RANDOM*\nHand this card to another player and have them: MAKE SILLY FACES FOR THIRTY SECONDS",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "*RANDOM*\nHand this card to another player and have them: SING A SONG",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "*RANDOM*\nHand this card to another player and have them: TELL A FUNNY STORY",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "*RANDOM*\nHand this card to another player and have them: TELL A JOKE",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Did you hear about the new boy band? They are called _ on the Block.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Eating _ makes me stronger.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Eenie, meenie, miney, mo. Catch a tiger by _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Every time I sneeze, _ comes out of my nose.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Follow the _ brick road.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Frog legs don't taste like chicken, the taste like _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Go _ in a bucket and smell it.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Got any _? I'll trade you for it.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "How did these _ get broken?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I accidentally downloaded _ onto my iPhone.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I always put bacon on my _ for breakfast.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am always embarrassed when I _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am going to name my new dog _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am going to try out for my schools _ team.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am going to wear a _ to prom.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am not allowed to use my computer unless I _ first.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I am totally awesome at _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I can't believe I accidentally _ in front of everyone at the school play.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I can't believe my teacher gave me _ to do over school vacation.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I can't wait to go to Camp _ this summer!",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I dropped my cellphone in the _ and now it won't work anymore.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I found a _ in my school lunch, but I ate it anyway.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I hope I don't _ on the roller coaster.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I jumped into the ocean and found _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I just got some _ stuck in my braces.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I like spaghetti and _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I like to dip my french fries in _ and eat them.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I like to fill my water ballons up with _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I like to take pictures of _ on my phone.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I love my babysitter! She always brings us _ when she comes over.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I love the beach and the feeling of _ between my toes.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I made it halfway through _ before falling asleep",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I think hot dogs taste like _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I took a selfie with _ on the bus.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I use _ as bait when I go fishing.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I was late to class and forgot my _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I was on a hayride and _ jumped out and scared me.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I was sent to the principals office for _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I went fishing and caught _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I wished for _ on my birthday last year",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I'm rubber and you're glue. Whatever bounces off of me, sticks to _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "I'm the only one of my friends without _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "If Bigfoot came to your house, what would you feed him for dinner?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "If I were a superhero, I would be Super _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "If you forgot your lunch money, how would you pay for lunch?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "In class today, we learned how to say _ in Spanish.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Instant oatmeal. Just add _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Instead of turkey this year, my family is going to eat _ for Thanksgiving.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "It's raining cats and _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Kids Create Absurdity makes me want to _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Knock, knock.\nWho's there?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Last night I dreamt about _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Look up at the sky and wish upon a _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My babysitter says I can't have a snack until I clean up all of my _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My best friends always pick their _ in class.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My birthday party is going to be epic because _ is coming.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My dentist always yells at me for not brushing my _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My dogs breath smells like _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My favorite book is about _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My friends and I like to play hide and go _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My imaginary friend likes to _ when we hang out.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My school bus driver smells like _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "My two favorite pizza toppings are olives and _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Rock, paper, scissors, _!",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Snug as a bug in a _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The back to school list had _ on it.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The monkeys at the zoo always throw _ at me when I walk by.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The new iPhone is called iPhone _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The new national holiday is called _ Day.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The secret password is: _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "The story of my life is _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "There's a new _ in town.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "They opened up a Disney called _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "They wrote an article about me in the paper because I grew the worlds longest _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "This Halloween I am going to dress up as _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "We go together like apples and _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "We played baseball with _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What do you get when you mix a pig and a cow?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What is the one thing you don't want your parents to find in your backpack?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What perfume are you wearing?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What was that gross thing you found in your school lunch?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What would you do for one hundred dollars?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What would you give the president for a birthday gift?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What's for dinner?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "What's that on your face?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "When I am alone, I like to think about _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "When I get home from school, my favorite TV show to watch is _ and Friends.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "When I go to college I am going to study _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "When it snows I like to build _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "When you're mad or feeling sad, just go _.",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Who do you think you are?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Who will be the next President?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Why did the fusion exchanges end?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Why didn't you pass your homework in on time?",
+      "pick": 1,
+      "pack": 124
+    },
+    {
+      "text": "Why does my breath smell so bad?",
+      "pick": 1,
+      "pack": 124
+    }
+  ],
+  "white": [
+    {
+      "text": "A barf smoothie",
+      "pack": 124
+    },
+    {
+      "text": "A bowl of worm soup",
+      "pack": 124
+    },
+    {
+      "text": "A giant octopus",
+      "pack": 124
+    },
+    {
+      "text": "A giant pile of dirty socks",
+      "pack": 124
+    },
+    {
+      "text": "A giant turd",
+      "pack": 124
+    },
+    {
+      "text": "A grumpy unicorn",
+      "pack": 124
+    },
+    {
+      "text": "A half eaten candy bar",
+      "pack": 124
+    },
+    {
+      "text": "A haunted house",
+      "pack": 124
+    },
+    {
+      "text": "A lemur",
+      "pack": 124
+    },
+    {
+      "text": "A realy awful haircut",
+      "pack": 124
+    },
+    {
+      "text": "A snart (sneezing and farting at the same time)",
+      "pack": 124
+    },
+    {
+      "text": "A squirrel fight",
+      "pack": 124
+    },
+    {
+      "text": "A t-rex with really long arms",
+      "pack": 124
+    },
+    {
+      "text": "A talking scarecrow",
+      "pack": 124
+    },
+    {
+      "text": "A wet and muddy, smelly dog",
+      "pack": 124
+    },
+    {
+      "text": "A wet, dirty sponge",
+      "pack": 124
+    },
+    {
+      "text": "A whatchamacallit",
+      "pack": 124
+    },
+    {
+      "text": "Accidentally throwing the remote through the TV",
+      "pack": 124
+    },
+    {
+      "text": "Angry elves",
+      "pack": 124
+    },
+    {
+      "text": "Angry teenagers",
+      "pack": 124
+    },
+    {
+      "text": "Annoying laughter",
+      "pack": 124
+    },
+    {
+      "text": "Archery",
+      "pack": 124
+    },
+    {
+      "text": "Armpit fart noises",
+      "pack": 124
+    },
+    {
+      "text": "Awesome possum",
+      "pack": 124
+    },
+    {
+      "text": "Awesome stuff.",
+      "pack": 124
+    },
+    {
+      "text": "Awful, loud music",
+      "pack": 124
+    },
+    {
+      "text": "Awkward moment",
+      "pack": 124
+    },
+    {
+      "text": "Baby pacifiers",
+      "pack": 124
+    },
+    {
+      "text": "Back hair",
+      "pack": 124
+    },
+    {
+      "text": "Bacon",
+      "pack": 124
+    },
+    {
+      "text": "Barfing at the dinner table",
+      "pack": 124
+    },
+    {
+      "text": "Barfing on an airplane",
+      "pack": 124
+    },
+    {
+      "text": "Basketball",
+      "pack": 124
+    },
+    {
+      "text": "Being goofy",
+      "pack": 124
+    },
+    {
+      "text": "Being told to \"grow up\"",
+      "pack": 124
+    },
+    {
+      "text": "Belly dancers.",
+      "pack": 124
+    },
+    {
+      "text": "Blah blah blah",
+      "pack": 124
+    },
+    {
+      "text": "Blazing bonfires",
+      "pack": 124
+    },
+    {
+      "text": "Blood sucking vampires",
+      "pack": 124
+    },
+    {
+      "text": "Blubber",
+      "pack": 124
+    },
+    {
+      "text": "Boring babysitters",
+      "pack": 124
+    },
+    {
+      "text": "Bouncey house",
+      "pack": 124
+    },
+    {
+      "text": "Bouncing on a pogo stick.",
+      "pack": 124
+    },
+    {
+      "text": "Brain farts",
+      "pack": 124
+    },
+    {
+      "text": "Broken sunglasses",
+      "pack": 124
+    },
+    {
+      "text": "Building a tree fort",
+      "pack": 124
+    },
+    {
+      "text": "Bumbling blabbermouths",
+      "pack": 124
+    },
+    {
+      "text": "Burping really loud",
+      "pack": 124
+    },
+    {
+      "text": "Butt crust",
+      "pack": 124
+    },
+    {
+      "text": "Cabbages",
+      "pack": 124
+    },
+    {
+      "text": "Cake",
+      "pack": 124
+    },
+    {
+      "text": "Cancelled play dates",
+      "pack": 124
+    },
+    {
+      "text": "Candy canes",
+      "pack": 124
+    },
+    {
+      "text": "Candy corn",
+      "pack": 124
+    },
+    {
+      "text": "Car sickness",
+      "pack": 124
+    },
+    {
+      "text": "Cartwheels",
+      "pack": 124
+    },
+    {
+      "text": "Catching your friend picking their nose",
+      "pack": 124
+    },
+    {
+      "text": "Chapped lips",
+      "pack": 124
+    },
+    {
+      "text": "Cheerleading",
+      "pack": 124
+    },
+    {
+      "text": "Chewed gum stuck undfer the table",
+      "pack": 124
+    },
+    {
+      "text": "Chicken carcass",
+      "pack": 124
+    },
+    {
+      "text": "Chicken nuggets",
+      "pack": 124
+    },
+    {
+      "text": "Chocolate cupcakes",
+      "pack": 124
+    },
+    {
+      "text": "Chunks of food in my teeth",
+      "pack": 124
+    },
+    {
+      "text": "Chunky chickens",
+      "pack": 124
+    },
+    {
+      "text": "Circus freaks",
+      "pack": 124
+    },
+    {
+      "text": "Cleaning up my room",
+      "pack": 124
+    },
+    {
+      "text": "Climbing Mount Everest",
+      "pack": 124
+    },
+    {
+      "text": "Clogging the toilet with a large poop",
+      "pack": 124
+    },
+    {
+      "text": "Cobwebs",
+      "pack": 124
+    },
+    {
+      "text": "Cockroaches",
+      "pack": 124
+    },
+    {
+      "text": "Coloring on the walls",
+      "pack": 124
+    },
+    {
+      "text": "Cooties",
+      "pack": 124
+    },
+    {
+      "text": "Couch  potatoes",
+      "pack": 124
+    },
+    {
+      "text": "Cow udders",
+      "pack": 124
+    },
+    {
+      "text": "Cowabunga dudes",
+      "pack": 124
+    },
+    {
+      "text": "Crazy hair day",
+      "pack": 124
+    },
+    {
+      "text": "Crazy raccoons",
+      "pack": 124
+    },
+    {
+      "text": "Creaky stairs",
+      "pack": 124
+    },
+    {
+      "text": "Creepy crawlers",
+      "pack": 124
+    },
+    {
+      "text": "Crusty toothbrush",
+      "pack": 124
+    },
+    {
+      "text": "Cry baby",
+      "pack": 124
+    },
+    {
+      "text": "Cutting the cheese",
+      "pack": 124
+    },
+    {
+      "text": "Daddy long legs",
+      "pack": 124
+    },
+    {
+      "text": "Dance",
+      "pack": 124
+    },
+    {
+      "text": "Dancing like you just don't care",
+      "pack": 124
+    },
+    {
+      "text": "Dead cellphone batteries",
+      "pack": 124
+    },
+    {
+      "text": "Dead fish heads",
+      "pack": 124
+    },
+    {
+      "text": "Diaper rash",
+      "pack": 124
+    },
+    {
+      "text": "Diarrhea",
+      "pack": 124
+    },
+    {
+      "text": "Dirty fingernails",
+      "pack": 124
+    },
+    {
+      "text": "Dog slobber",
+      "pack": 124
+    },
+    {
+      "text": "Dogs",
+      "pack": 124
+    },
+    {
+      "text": "Doll heads",
+      "pack": 124
+    },
+    {
+      "text": "Dolphins",
+      "pack": 124
+    },
+    {
+      "text": "Donuts",
+      "pack": 124
+    },
+    {
+      "text": "Dragons",
+      "pack": 124
+    },
+    {
+      "text": "Dressing up for Halloween",
+      "pack": 124
+    },
+    {
+      "text": "Drinking soda",
+      "pack": 124
+    },
+    {
+      "text": "Dripping food all over your clean white t-shirt",
+      "pack": 124
+    },
+    {
+      "text": "Drooling all over your favorite pillow",
+      "pack": 124
+    },
+    {
+      "text": "Dropping the mic and walking away",
+      "pack": 124
+    },
+    {
+      "text": "Dull scissors",
+      "pack": 124
+    },
+    {
+      "text": "Earrings",
+      "pack": 124
+    },
+    {
+      "text": "Eating a dessert before dinner",
+      "pack": 124
+    },
+    {
+      "text": "Eating all of your vegetables",
+      "pack": 124
+    },
+    {
+      "text": "Eating lots and lots of sugar",
+      "pack": 124
+    },
+    {
+      "text": "Eating raw cookie dough",
+      "pack": 124
+    },
+    {
+      "text": "Eating worms",
+      "pack": 124
+    },
+    {
+      "text": "Elephant dung",
+      "pack": 124
+    },
+    {
+      "text": "Epic fail",
+      "pack": 124
+    },
+    {
+      "text": "Evil kittens",
+      "pack": 124
+    },
+    {
+      "text": "Exploding watermelons",
+      "pack": 124
+    },
+    {
+      "text": "Eye boogies",
+      "pack": 124
+    },
+    {
+      "text": "Fake tattoos",
+      "pack": 124
+    },
+    {
+      "text": "Falling and scraping your knee",
+      "pack": 124
+    },
+    {
+      "text": "Falling off the monkey bars",
+      "pack": 124
+    },
+    {
+      "text": "Fart face",
+      "pack": 124
+    },
+    {
+      "text": "Farting during a test",
+      "pack": 124
+    },
+    {
+      "text": "Farting in public",
+      "pack": 124
+    },
+    {
+      "text": "Fierce dinosaurs",
+      "pack": 124
+    },
+    {
+      "text": "Finding a bug in your food",
+      "pack": 124
+    },
+    {
+      "text": "Finding hair in your soup",
+      "pack": 124
+    },
+    {
+      "text": "Finding money between the couch cushions",
+      "pack": 124
+    },
+    {
+      "text": "Fingernail clippings",
+      "pack": 124
+    },
+    {
+      "text": "Finishing your homework two minutes before it is due",
+      "pack": 124
+    },
+    {
+      "text": "Flat tires on a brand new bike",
+      "pack": 124
+    },
+    {
+      "text": "Flip flops",
+      "pack": 124
+    },
+    {
+      "text": "Football",
+      "pack": 124
+    },
+    {
+      "text": "French fries",
+      "pack": 124
+    },
+    {
+      "text": "Fried eggs",
+      "pack": 124
+    },
+    {
+      "text": "Frozen bananas",
+      "pack": 124
+    },
+    {
+      "text": "Funky monkeys",
+      "pack": 124
+    },
+    {
+      "text": "Gargoyles",
+      "pack": 124
+    },
+    {
+      "text": "Getting a bloody nose that won't stop",
+      "pack": 124
+    },
+    {
+      "text": "Getting a prize in your cereal box",
+      "pack": 124
+    },
+    {
+      "text": "Getting a shot",
+      "pack": 124
+    },
+    {
+      "text": "Getting egged",
+      "pack": 124
+    },
+    {
+      "text": "Getting locked inside a museum",
+      "pack": 124
+    },
+    {
+      "text": "Getting sent to the principals office",
+      "pack": 124
+    },
+    {
+      "text": "Getting sent to your room",
+      "pack": 124
+    },
+    {
+      "text": "Getting struck by lightening",
+      "pack": 124
+    },
+    {
+      "text": "Getting stung by a bee",
+      "pack": 124
+    },
+    {
+      "text": "Giant rats",
+      "pack": 124
+    },
+    {
+      "text": "Giants",
+      "pack": 124
+    },
+    {
+      "text": "Glitter",
+      "pack": 124
+    },
+    {
+      "text": "Gnomes",
+      "pack": 124
+    },
+    {
+      "text": "Goblins",
+      "pack": 124
+    },
+    {
+      "text": "Goggles",
+      "pack": 124
+    },
+    {
+      "text": "Going to school everyday for the rest of your life",
+      "pack": 124
+    },
+    {
+      "text": "Going to summer camp",
+      "pack": 124
+    },
+    {
+      "text": "Goosebumps",
+      "pack": 124
+    },
+    {
+      "text": "Gummy worms",
+      "pack": 124
+    },
+    {
+      "text": "Hair stuck in the drain",
+      "pack": 124
+    },
+    {
+      "text": "Hair ties",
+      "pack": 124
+    },
+    {
+      "text": "Hairballs",
+      "pack": 124
+    },
+    {
+      "text": "Having a snowball fight",
+      "pack": 124
+    },
+    {
+      "text": "Having dinner with the president",
+      "pack": 124
+    },
+    {
+      "text": "Having to stay inside for recess",
+      "pack": 124
+    },
+    {
+      "text": "Hiding behind the furniture, waiting to jump out and scare someone",
+      "pack": 124
+    },
+    {
+      "text": "Hockey",
+      "pack": 124
+    },
+    {
+      "text": "Horror movies",
+      "pack": 124
+    },
+    {
+      "text": "Hours and hours of homework",
+      "pack": 124
+    },
+    {
+      "text": "Ice cream sundaes",
+      "pack": 124
+    },
+    {
+      "text": "Internet cat videos",
+      "pack": 124
+    },
+    {
+      "text": "Interrupting an adult while they are on an important phone call",
+      "pack": 124
+    },
+    {
+      "text": "Jumping on the bed",
+      "pack": 124
+    },
+    {
+      "text": "Karate",
+      "pack": 124
+    },
+    {
+      "text": "Kissing a hamster on the lips",
+      "pack": 124
+    },
+    {
+      "text": "Kissing crickets",
+      "pack": 124
+    },
+    {
+      "text": "Knotted hair",
+      "pack": 124
+    },
+    {
+      "text": "Lacrosse",
+      "pack": 124
+    },
+    {
+      "text": "Laughing hyenas",
+      "pack": 124
+    },
+    {
+      "text": "Laughing hysterically",
+      "pack": 124
+    },
+    {
+      "text": "Leaping lizards",
+      "pack": 124
+    },
+    {
+      "text": "Leggings",
+      "pack": 124
+    },
+    {
+      "text": "Leprechaun gold",
+      "pack": 124
+    },
+    {
+      "text": "Licking a frozen pole",
+      "pack": 124
+    },
+    {
+      "text": "Long, thick toenails",
+      "pack": 124
+    },
+    {
+      "text": "Losing a tooth without even realizing it",
+      "pack": 124
+    },
+    {
+      "text": "Mac & Cheese",
+      "pack": 124
+    },
+    {
+      "text": "Magical fairies",
+      "pack": 124
+    },
+    {
+      "text": "Makeup",
+      "pack": 124
+    },
+    {
+      "text": "Making fun of your teacher",
+      "pack": 124
+    },
+    {
+      "text": "Mean people",
+      "pack": 124
+    },
+    {
+      "text": "Meros tacos.",
+      "pack": 124
+    },
+    {
+      "text": "Mexican jumping beans",
+      "pack": 124
+    },
+    {
+      "text": "Minions",
+      "pack": 124
+    },
+    {
+      "text": "Moldy bread",
+      "pack": 124
+    },
+    {
+      "text": "Moldy cheese",
+      "pack": 124
+    },
+    {
+      "text": "Monkey brains",
+      "pack": 124
+    },
+    {
+      "text": "Monkey butt",
+      "pack": 124
+    },
+    {
+      "text": "Monsters under your bed",
+      "pack": 124
+    },
+    {
+      "text": "Moose droppings",
+      "pack": 124
+    },
+    {
+      "text": "Mosquitoes",
+      "pack": 124
+    },
+    {
+      "text": "Mud puddles",
+      "pack": 124
+    },
+    {
+      "text": "Mustard and ketchup",
+      "pack": 124
+    },
+    {
+      "text": "My brothers smelly underwear",
+      "pack": 124
+    },
+    {
+      "text": "My dogs smelly farts",
+      "pack": 124
+    },
+    {
+      "text": "Nincompoops",
+      "pack": 124
+    },
+    {
+      "text": "Non-stop giggling",
+      "pack": 124
+    },
+    {
+      "text": "Nose hair",
+      "pack": 124
+    },
+    {
+      "text": "Not covering your mouth when you sneeze",
+      "pack": 124
+    },
+    {
+      "text": "Not remembering your lines in the school play",
+      "pack": 124
+    },
+    {
+      "text": "Not taking a bath for two weeks",
+      "pack": 124
+    },
+    {
+      "text": "Nuns",
+      "pack": 124
+    },
+    {
+      "text": "Old people smell",
+      "pack": 124
+    },
+    {
+      "text": "Ooey, gooey, glue",
+      "pack": 124
+    },
+    {
+      "text": "Oompa Loompas",
+      "pack": 124
+    },
+    {
+      "text": "Peanut butter & jelly",
+      "pack": 124
+    },
+    {
+      "text": "Pee",
+      "pack": 124
+    },
+    {
+      "text": "Peeing your pants",
+      "pack": 124
+    },
+    {
+      "text": "Peeling scabby skin",
+      "pack": 124
+    },
+    {
+      "text": "Picking your nose in front of the whole school",
+      "pack": 124
+    },
+    {
+      "text": "Pigglewink",
+      "pack": 124
+    },
+    {
+      "text": "Pigs feet",
+      "pack": 124
+    },
+    {
+      "text": "Piles of chewed up chicken fingers",
+      "pack": 124
+    },
+    {
+      "text": "Pizza with anchovies",
+      "pack": 124
+    },
+    {
+      "text": "Platypus",
+      "pack": 124
+    },
+    {
+      "text": "Playgrounds",
+      "pack": 124
+    },
+    {
+      "text": "Playing bingo",
+      "pack": 124
+    },
+    {
+      "text": "Polka dot underwear",
+      "pack": 124
+    },
+    {
+      "text": "Poop",
+      "pack": 124
+    },
+    {
+      "text": "Pooping your pants",
+      "pack": 124
+    },
+    {
+      "text": "Poopy head",
+      "pack": 124
+    },
+    {
+      "text": "Popcorn kernals",
+      "pack": 124
+    },
+    {
+      "text": "Potatoes",
+      "pack": 124
+    },
+    {
+      "text": "Power outages",
+      "pack": 124
+    },
+    {
+      "text": "Pranking your teacher",
+      "pack": 124
+    },
+    {
+      "text": "Pretending to be a pirate",
+      "pack": 124
+    },
+    {
+      "text": "Pretending to be asleep",
+      "pack": 124
+    },
+    {
+      "text": "Pretending to be sick to stahy home from school",
+      "pack": 124
+    },
+    {
+      "text": "Prickly porcupines",
+      "pack": 124
+    },
+    {
+      "text": "Pulling out grandmas fake teeth",
+      "pack": 124
+    },
+    {
+      "text": "Putting on nail polish",
+      "pack": 124
+    },
+    {
+      "text": "Racing your friends",
+      "pack": 124
+    },
+    {
+      "text": "Rainy birthdays",
+      "pack": 124
+    },
+    {
+      "text": "Really bad breath",
+      "pack": 124
+    },
+    {
+      "text": "Repeating everything an adult says until they go crazy",
+      "pack": 124
+    },
+    {
+      "text": "Riding a donkey off into the sunset",
+      "pack": 124
+    },
+    {
+      "text": "Riding a unicorn over the rainbow",
+      "pack": 124
+    },
+    {
+      "text": "Rolling around in the mud",
+      "pack": 124
+    },
+    {
+      "text": "Rolling down a hill",
+      "pack": 124
+    },
+    {
+      "text": "Rough, anonymous sex.",
+      "pack": 124
+    },
+    {
+      "text": "Rubber bands",
+      "pack": 124
+    },
+    {
+      "text": "Running away from a herd of elephants",
+      "pack": 124
+    },
+    {
+      "text": "Running away with the circus",
+      "pack": 124
+    },
+    {
+      "text": "Sand stuck in your baithing suit",
+      "pack": 124
+    },
+    {
+      "text": "Sandy feet",
+      "pack": 124
+    },
+    {
+      "text": "Scaredy cat",
+      "pack": 124
+    },
+    {
+      "text": "Scary Spice",
+      "pack": 124
+    },
+    {
+      "text": "School lunches",
+      "pack": 124
+    },
+    {
+      "text": "Screaming at the top of your lungs in the library",
+      "pack": 124
+    },
+    {
+      "text": "Scrumpdidlyumptious farts",
+      "pack": 124
+    },
+    {
+      "text": "Sell high-tops to hippies.",
+      "pack": 124
+    },
+    {
+      "text": "Setting all of the zoo animals free",
+      "pack": 124
+    },
+    {
+      "text": "Sewer rats",
+      "pack": 124
+    },
+    {
+      "text": "Shoving everything into your closet when you're supposed to be cleaning your room",
+      "pack": 124
+    },
+    {
+      "text": "Silent but deadly farts",
+      "pack": 124
+    },
+    {
+      "text": "Silly string",
+      "pack": 124
+    },
+    {
+      "text": "Singing in the shower",
+      "pack": 124
+    },
+    {
+      "text": "Sitting in the back of the school bus",
+      "pack": 124
+    },
+    {
+      "text": "Skeletons",
+      "pack": 124
+    },
+    {
+      "text": "Skidmarks on my underwear",
+      "pack": 124
+    },
+    {
+      "text": "Skunk smell",
+      "pack": 124
+    },
+    {
+      "text": "Sledding down the hill",
+      "pack": 124
+    },
+    {
+      "text": "Sleep walking",
+      "pack": 124
+    },
+    {
+      "text": "Sleepovers",
+      "pack": 124
+    },
+    {
+      "text": "Slime",
+      "pack": 124
+    },
+    {
+      "text": "Slimy centipedes",
+      "pack": 124
+    },
+    {
+      "text": "Slithering snakes",
+      "pack": 124
+    },
+    {
+      "text": "Sloths",
+      "pack": 124
+    },
+    {
+      "text": "Smelling your own feet",
+      "pack": 124
+    },
+    {
+      "text": "Smelly farts",
+      "pack": 124
+    },
+    {
+      "text": "Smelly grandpa",
+      "pack": 124
+    },
+    {
+      "text": "Smelly seaweed",
+      "pack": 124
+    },
+    {
+      "text": "Smelly toe jam",
+      "pack": 124
+    },
+    {
+      "text": "Sneaking cookies into the cart while grocery shopping",
+      "pack": 124
+    },
+    {
+      "text": "Sneaking the dog food underneath the table",
+      "pack": 124
+    },
+    {
+      "text": "Snot rockets",
+      "pack": 124
+    },
+    {
+      "text": "Soccer",
+      "pack": 124
+    },
+    {
+      "text": "Sour lemons",
+      "pack": 124
+    },
+    {
+      "text": "Sour milk with chunks in it",
+      "pack": 124
+    },
+    {
+      "text": "Spending endless hours watching silly internet vidoes",
+      "pack": 124
+    },
+    {
+      "text": "Spicy chimichangas",
+      "pack": 124
+    },
+    {
+      "text": "Spiders crawling up your back",
+      "pack": 124
+    },
+    {
+      "text": "Spilling milk all over the counter",
+      "pack": 124
+    },
+    {
+      "text": "Spinning around in a revolving door",
+      "pack": 124
+    },
+    {
+      "text": "Splinters",
+      "pack": 124
+    },
+    {
+      "text": "Spooky ghosts",
+      "pack": 124
+    },
+    {
+      "text": "Spying on the neighbors",
+      "pack": 124
+    },
+    {
+      "text": "Squirming worms",
+      "pack": 124
+    },
+    {
+      "text": "Star gazing",
+      "pack": 124
+    },
+    {
+      "text": "Staying up until midnight",
+      "pack": 124
+    },
+    {
+      "text": "Stepping in a big pile of doggy doo",
+      "pack": 124
+    },
+    {
+      "text": "Stepping in gum",
+      "pack": 124
+    },
+    {
+      "text": "Sticky cotton candy",
+      "pack": 124
+    },
+    {
+      "text": "Sticky ear wax",
+      "pack": 124
+    },
+    {
+      "text": "Sticky maple syrup",
+      "pack": 124
+    },
+    {
+      "text": "Stinky armpits",
+      "pack": 124
+    },
+    {
+      "text": "Stinky flowers",
+      "pack": 124
+    },
+    {
+      "text": "Stubbing your toe in the middle of the night",
+      "pack": 124
+    },
+    {
+      "text": "Stuffed animals",
+      "pack": 124
+    },
+    {
+      "text": "Summer school",
+      "pack": 124
+    },
+    {
+      "text": "Swag",
+      "pack": 124
+    },
+    {
+      "text": "Sweaty feet",
+      "pack": 124
+    },
+    {
+      "text": "Swimming with dolphins",
+      "pack": 124
+    },
+    {
+      "text": "Talking back to an adult",
+      "pack": 124
+    },
+    {
+      "text": "Talking to myself",
+      "pack": 124
+    },
+    {
+      "text": "Tattletales",
+      "pack": 124
+    },
+    {
+      "text": "Teachers pet",
+      "pack": 124
+    },
+    {
+      "text": "Texting your best friend",
+      "pack": 124
+    },
+    {
+      "text": "The flu",
+      "pack": 124
+    },
+    {
+      "text": "The heebie jeebies",
+      "pack": 124
+    },
+    {
+      "text": "The ice cream man",
+      "pack": 124
+    },
+    {
+      "text": "The internet crashing",
+      "pack": 124
+    },
+    {
+      "text": "The logistics of planning a family holiday",
+      "pack": 124
+    },
+    {
+      "text": "The stench of a never cleaned litter box",
+      "pack": 124
+    },
+    {
+      "text": "The toy store",
+      "pack": 124
+    },
+    {
+      "text": "Throw up",
+      "pack": 124
+    },
+    {
+      "text": "Throwing up at school",
+      "pack": 124
+    },
+    {
+      "text": "Thunderstorms",
+      "pack": 124
+    },
+    {
+      "text": "Tickling your feet",
+      "pack": 124
+    },
+    {
+      "text": "Toasting marshmallows",
+      "pack": 124
+    },
+    {
+      "text": "Toilet paper stuck in my butt crack",
+      "pack": 124
+    },
+    {
+      "text": "Toilet water",
+      "pack": 124
+    },
+    {
+      "text": "Toy boxes filled with worms",
+      "pack": 124
+    },
+    {
+      "text": "Trampolines",
+      "pack": 124
+    },
+    {
+      "text": "Turkeys",
+      "pack": 124
+    },
+    {
+      "text": "Turtles",
+      "pack": 124
+    },
+    {
+      "text": "Vampire fangs",
+      "pack": 124
+    },
+    {
+      "text": "Volcanoes",
+      "pack": 124
+    },
+    {
+      "text": "Vultures",
+      "pack": 124
+    },
+    {
+      "text": "Wackadoodle",
+      "pack": 124
+    },
+    {
+      "text": "Walking on egg shells with bare feet",
+      "pack": 124
+    },
+    {
+      "text": "Walking to the front of the classroom while trying to conceal a throbbing erection.",
+      "pack": 124
+    },
+    {
+      "text": "Walrus",
+      "pack": 124
+    },
+    {
+      "text": "Warts",
+      "pack": 124
+    },
+    {
+      "text": "Wasabi peas",
+      "pack": 124
+    },
+    {
+      "text": "Wearing a disguise",
+      "pack": 124
+    },
+    {
+      "text": "Wedgies",
+      "pack": 124
+    },
+    {
+      "text": "Werewolves",
+      "pack": 124
+    },
+    {
+      "text": "Wet willies",
+      "pack": 124
+    },
+    {
+      "text": "Wet, runny boogers",
+      "pack": 124
+    },
+    {
+      "text": "Wet, soggy socks",
+      "pack": 124
+    },
+    {
+      "text": "Wi-fi",
+      "pack": 124
+    },
+    {
+      "text": "Winning a spelling bee",
+      "pack": 124
+    },
+    {
+      "text": "Yellow teeth",
+      "pack": 124
+    },
+    {
+      "text": "Zits",
+      "pack": 124
+    },
+    {
+      "text": "Zombie brains",
+      "pack": 124
+    }
+  ]
+}
