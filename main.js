@@ -7,9 +7,15 @@ const server = http.createServer(app);
 const fs= require("fs")
 
 const cors= require("cors");
+const e = require("cors");
 
 
 app.use(cors())
+
+
+var rooms={}
+
+var curRoomID=0;
 
 class SeverManagement{
     async init(){
@@ -36,13 +42,96 @@ const io = require("socket.io")(server, {
     console.log(client.id)
     console.log("Connected!");
 
-    new SeverManagement().init().then(dr=>{
-        client.emit("init",dr);
+    // new SeverManagement().init().then(dr=>{
+    //     client.emit("init",dr);
+    // })
+
+
+    client.on("joinRoom",(msg)=>{
+      if(msg.action=="JOINROOM"){
+        console.log(msg);
+        var roomCode= parseInt(msg.data.roomCode);
+        if(rooms[roomCode]!=undefined){
+          console.log("room exists")
+
+          if(rooms[roomCode].isAlreadyPlaying){
+            //already playing- cant connect- or reconnect
+
+            client.emit("joinRoomResponse",{
+              status:"ERR",
+              msg:"This room is currently playing/active so cannot join"
+            })
+
+            return;
+          }
+
+          if(rooms[roomCode]['users'][msg.data.genid]==undefined){
+            rooms[roomCode]['users'][msg.data.genid]={
+              playerData:{
+                nickName: msg.data.nickName,
+                socketIDs:[client.id]
+              }
+            }
+          }else{
+            console.log("player exists")
+           var socketsid= rooms[roomCode]['users'][msg.data.genid].playerData.socketIDs;
+
+           socketsid.push(client.id)
+        
+           
+          rooms[roomCode]['users'][msg.data.genid]={
+            playerData:{
+              nickName: msg.data.nickName,
+              socketIDs:socketsid
+            }
+          }
+
+          client.broadcast.emit("playerConnected",{
+            roomID: roomCode,
+            user:{
+              nickName: msg.data.nickName,
+              socketIDs:socketsid,
+              connectedUsers:rooms[roomCode]['users'],//all connected users of this room
+            }
+          })
+
+        }
+
+        
+          
+
+
+        }else{
+          client.emit("joinRoomResponse",{
+            status:"ERR",
+            msg:"This room does not exist"
+          })
+        }
+      }
     })
 
+      client.on("createRoom",(msg)=>{
+        console.log(msg)
+        if(msg.action=="CREATEROOM"){
+          //lets create a room
+          curRoomID++;
+
+          var dataR={
+            roomID: curRoomID,
+            socketIDsOwner: [client.id],
+            nickname: msg.data.roomName,
+            users:{},
+            isAlreadyPlaying:false
+          }
+
+          rooms[curRoomID]=dataR;
+
+          client.emit("roomCreated",dataR)
+
  
-        console.log("sending client a message")
-        setTimeout(()=>{}, 3000);
+          
+        }
+      })
 
     
 
