@@ -15,6 +15,9 @@ app.use(cors())
 
 var rooms={}
 
+var activeUsers={}
+//determines currently which room their in without delving too deep
+
 var curRoomID=0;
 
 class SeverManagement{
@@ -47,6 +50,21 @@ const io = require("socket.io")(server, {
     // })
 
 
+    client.on("WAITINGMESSAGE",(msg)=>{
+      var userid= msg.genid;
+      var roomID= msg.roomID;
+      var roomData= rooms[roomID];
+      console.log(roomData['users'][userid])
+
+      var toSend=msg;
+
+      toSend.senderData=roomData['users'][userid]
+
+      client.broadcast.emit("WAITINGMESSAGEres",{
+        ...toSend
+      })
+    })
+
     client.on("joinRoom",(msg)=>{
       if(msg.action=="JOINROOM"){
         console.log(msg);
@@ -65,6 +83,14 @@ const io = require("socket.io")(server, {
             return;
           }
 
+          activeUsers[client.id]={
+            roomCode:roomCode,
+            playerData:{
+              nickName: msg.data.nickName,
+              socketIDs:[client.id]
+            }
+          }
+
           if(rooms[roomCode]['users'][msg.data.genid]==undefined){
             rooms[roomCode]['users'][msg.data.genid]={
               playerData:{
@@ -72,12 +98,39 @@ const io = require("socket.io")(server, {
                 socketIDs:[client.id]
               }
             }
+
+
+            console.log("success")
+            client.emit("joinRoomResponse",{
+              status:"SUCCESS",
+              data:{
+                ...rooms[roomCode]
+              },
+              msg:"You are now in a room"
+            })
+
+            client.broadcast.emit("playerConnected",{
+              roomID: roomCode,
+              user:{
+                nickName: msg.data.nickName,
+                socketIDs:[client.id],
+                connectedUsers:rooms[roomCode]['users'],//all connected users of this room
+              }
+            })
           }else{
             console.log("player exists")
            var socketsid= rooms[roomCode]['users'][msg.data.genid].playerData.socketIDs;
 
            socketsid.push(client.id)
         
+
+           activeUsers[client.id]={
+            roomCode:roomCode,
+            playerData:{
+              nickName: msg.data.nickName,
+              socketIDs:socketsid
+            }
+          }
            
           rooms[roomCode]['users'][msg.data.genid]={
             playerData:{
