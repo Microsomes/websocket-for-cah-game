@@ -10,6 +10,8 @@ const cors= require("cors");
 const e = require("cors");
 
 
+var _ = require('underscore');
+
 app.use(cors())
 
 
@@ -20,16 +22,7 @@ var activeUsers={}
 
 var curRoomID=0;
 
-class SeverManagement{
-    async init(){
-        return new Promise((resolve,reject)=>{
-        //user just connected lets make him confortable
-        var loadCategories= require("./data/names.json")
-        resolve(loadCategories)
-    })
-    }
-}
-
+ 
 
 // server-side
 const io = require("socket.io")(server, {
@@ -187,10 +180,49 @@ const io = require("socket.io")(server, {
       })
 
     
+      var checkDisconnection=(id,client)=>{
+        console.log("---------------disconnect");
+        if(activeUsers[id]!=undefined){
+          //we need to notify all rooms this player is no longer connected
+          var roomCode= activeUsers[id].roomCode;
 
+          var roomData= rooms[roomCode];
+
+          for(var u in roomData['users']){
+            var genid= u;
+
+            var curUser= roomData['users'][genid]
+
+            var fil= curUser.playerData.socketIDs.filter(i=>{
+              if(i==id){
+                return i
+              }
+            })
+
+            if(fil.length>=1){
+              //found user
+              delete rooms[roomCode]['users'][genid]
+
+              client.broadcast.emit("playerConnected",{
+                roomID: roomCode,
+                user:{
+                  nickName: "dead",
+                  socketIDs:[client.id],
+                  connectedUsers:rooms[roomCode]['users'],//all connected users of this room
+                }
+              })
+
+            }
+
+          }
  
+
+        }
+      }
+      
     client.on('disconnect', () => {
         console.log('user disconnected'+client.id);
+        checkDisconnection(client.id,client)//runs any clean up that needs to take place and emits a broadcast to let the others know
       });
     });
 
